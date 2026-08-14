@@ -75,20 +75,20 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 The following libraries are expected to work well-enough on the Playdate:
 
-* [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,183 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
+* [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,182 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
 * [middleclass](https://github.com/kikito/middleclass) ⭐ 1,917 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - A simple OOP library for Lua that introduces inheritance, operator overloads, static variables, and mixin support.
 * [rxi/lume](https://github.com/rxi/lume) ⭐ 1,237 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
-* [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,097 | 🐛 13 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
+* [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,098 | 🐛 13 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
 * [rxi/classic](https://github.com/rxi/classic) ⭐ 1,071 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
-* [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 783 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
+* [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 784 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
 * [Jumper](https://github.com/Yonaba/Jumper) ⭐ 649 | 🐛 39 | 🌐 Lua | 📅 2022-10-21 - A pure Lua pathfinding library for grid-based games.
 * [Knife](https://github.com/airstruck/knife) ⭐ 519 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - A collection of useful micro-modules for Lua.
 * [Noble Engine](https://github.com/NobleRobot/NobleEngine) ⭐ 507 | 🐛 21 | 🌐 Lua | 📅 2024-07-07 - Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features.
   * [Documentation](https://noblerobot.github.io/NobleEngine/)
   * [Presentation from the creator](https://www.youtube.com/watch?v=fL46v-QmnNk)
-* [rxi/tick](https://github.com/rxi/tick) ⭐ 205 | 🐛 0 | 🌐 Lua | 📅 2015-03-11 - A small Lua module that simplifies the calling of functions at a set interval or after a delay.
+* [rxi/tick](https://github.com/rxi/tick) ⭐ 206 | 🐛 0 | 🌐 Lua | 📅 2015-03-11 - A small Lua module that simplifies the calling of functions at a set interval or after a delay.
 * [philanc/plc](https://github.com/philanc/plc) ⭐ 195 | 🐛 0 | 🌐 Lua | 📅 2025-07-20 - Pure Lua Crypto. Crpytographic functions and utilities implemented in pure Lua.
-* [AnimatedSprite](https://github.com/Whitebrim/AnimatedSprite) ⭐ 166 | 🐛 1 | 🌐 Lua | 📅 2026-02-05 - A lua-based library for animating sprites. Containing finite state machine, json configuration and plugNplay behaviour.
+* [AnimatedSprite](https://github.com/Whitebrim/AnimatedSprite) ⭐ 167 | 🐛 1 | 🌐 Lua | 📅 2026-02-05 - A lua-based library for animating sprites. Containing finite state machine, json configuration and plugNplay behaviour.
 * [deep](https://github.com/Nikaoto/deep) ⭐ 108 | 🐛 1 | 🌐 Lua | 📅 2026-02-17 - An "action-queue" library; helpful for things like z-indexing (although the Playdate already has z-index support in its draw ordering).
 * [profile.lua](https://github.com/2dengine/profile.lua) ⭐ 97 | 🐛 0 | 🌐 Lua | 📅 2026-08-11 - Performance profiling for Lua applications.
 * [lua-star](https://github.com/wesleywerner/lua-star) ⭐ 79 | 🐛 0 | 🌐 Lua | 📅 2021-07-25 - A\* pathfinding in pure Lua.
@@ -116,7 +116,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 
 This information was gleaned from a developer preview unit and screenshots.
 
-* [Playdate Reverse Engineering](https://github.com/jaames/playdate-reverse-engineering) ⭐ 305 | 🐛 1 | 🌐 Python | 📅 2026-08-07 - Unofficial documentation covering the Playdate's file formats, USB serial commands, and server API.
+* [Playdate Reverse Engineering](https://github.com/jaames/playdate-reverse-engineering) ⭐ 307 | 🐛 1 | 🌐 Python | 📅 2026-08-07 - Unofficial documentation covering the Playdate's file formats, USB serial commands, and server API.
 * [CPU: ST STM32F746](https://www.st.com/resource/en/datasheet/stm32f745ie.pdf)
   * [MCU Reference Manual](https://www.st.com/resource/en/reference_manual/dm00124865-stm32f75xxx-and-stm32f74xxx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
   * [CPU Programming Manual](https://www.st.com/resource/en/programming_manual/dm00237416-stm32f7-series-and-stm32h7-series-cortexm7-processor-programming-manual-stmicroelectronics.pdf)
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

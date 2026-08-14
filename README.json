@@ -63,7 +63,7 @@
             "last_commit": "2023-11-28T04:38:13Z",
             "owner": "rxi",
             "repo": "json.lua",
-            "stars": 2183
+            "stars": 2182
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2023-09-29T16:28:50Z",
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1097
+            "stars": 1098
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2023-03-15T01:27:58Z",
             "owner": "bakpakin",
             "repo": "tiny-ecs",
-            "stars": 783
+            "stars": 784
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2015-03-11T20:46:36Z",
             "owner": "rxi",
             "repo": "tick",
-            "stars": 205
+            "stars": 206
           }
         },
         {
@@ -217,7 +217,7 @@
             "last_commit": "2026-02-05T17:07:01Z",
             "owner": "Whitebrim",
             "repo": "AnimatedSprite",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:11:26.224Z",
+    "last_updated": "2026-08-14T15:04:40.056Z",
     "original_repository": "sayhiben/awesome-playdate",
     "original_repository_sha": "c944ac7bedfb0cb3ffa77fbfd574e105da76226c",
     "enhanced_repository": "enhansome/enhansome-playdate",
