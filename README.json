@@ -26,7 +26,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T16:03:30Z",
+            "last_commit": "2026-08-14T15:57:58Z",
             "owner": "boozook",
             "repo": "playdate",
             "stars": 193
@@ -63,7 +63,7 @@
             "last_commit": "2023-11-28T04:38:13Z",
             "owner": "rxi",
             "repo": "json.lua",
-            "stars": 2182
+            "stars": 2183
           }
         },
         {
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:04:40.056Z",
+    "last_updated": "2026-08-15T14:34:58.808Z",
     "original_repository": "sayhiben/awesome-playdate",
     "original_repository_sha": "c944ac7bedfb0cb3ffa77fbfd574e105da76226c",
     "enhanced_repository": "enhansome/enhansome-playdate",
