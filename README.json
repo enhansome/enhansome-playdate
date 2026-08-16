@@ -29,7 +29,7 @@
             "last_commit": "2026-08-14T15:57:58Z",
             "owner": "boozook",
             "repo": "playdate",
-            "stars": 193
+            "stars": 194
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2023-11-19T23:59:15Z",
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1237
+            "stars": 1238
           }
         },
         {
@@ -175,7 +175,7 @@
             "last_commit": "2024-07-07T04:19:10Z",
             "owner": "NobleRobot",
             "repo": "NobleEngine",
-            "stars": 507
+            "stars": 508
           }
         },
         {
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:34:58.808Z",
+    "last_updated": "2026-08-16T14:35:18.436Z",
     "original_repository": "sayhiben/awesome-playdate",
     "original_repository_sha": "c944ac7bedfb0cb3ffa77fbfd574e105da76226c",
     "enhanced_repository": "enhansome/enhansome-playdate",
