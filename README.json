@@ -26,10 +26,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T15:57:58Z",
+            "last_commit": "2026-08-17T02:34:28Z",
             "owner": "boozook",
             "repo": "playdate",
-            "stars": 194
+            "stars": 195
           }
         },
         {
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:35:18.436Z",
+    "last_updated": "2026-08-17T14:41:12.608Z",
     "original_repository": "sayhiben/awesome-playdate",
     "original_repository_sha": "c944ac7bedfb0cb3ffa77fbfd574e105da76226c",
     "enhanced_repository": "enhansome/enhansome-playdate",

@@ -60,7 +60,7 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 ###### Unofficial
 
-* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 194 | 🐛 111 | 🌐 Rust | 📅 2026-08-14
+* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 195 | 🐛 112 | 🌐 Rust | 📅 2026-08-17
 * [Playdate SDK Docker Image](https://github.com/hjhart/playdate-docker) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2022-09-08
 * [Install Playdate SDK with Package Managers](https://gist.github.com/idleberg/e246f7a582ac173d156c60ec23ce2af0)
 
@@ -151,7 +151,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 * [Tiled](https://www.mapeditor.org/) - 2D map editor
 * [Thrshold](https://www.figma.com/community/plugin/776033210163988440/Thrshold) - Figma plugin to apply a threshold effect filter
 * [LDtk](https://ldtk.io) - A modern 2D level editor with a strong focus on user-friendliness
-* [PlaydateLDtkImporter](https://github.com/NicMagnier/PlaydateLDtkImporter) ⭐ 129 | 🐛 4 | 🌐 Lua | 📅 2024-03-29 - Load tilemaps created with LDtk in playdate games
+* [PlaydateLDtkImporter](https://github.com/NicMagnier/PlaydateLDtkImporter) ⭐ 130 | 🐛 4 | 🌐 Lua | 📅 2024-03-29 - Load tilemaps created with LDtk in playdate games
 
 ### Development Concepts
 
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
