@@ -77,9 +77,9 @@ The following libraries are expected to work well-enough on the Playdate:
 
 * [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,183 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
 * [middleclass](https://github.com/kikito/middleclass) ⭐ 1,918 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - A simple OOP library for Lua that introduces inheritance, operator overloads, static variables, and mixin support.
-* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,239 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
+* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,238 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
 * [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,098 | 🐛 13 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
-* [rxi/classic](https://github.com/rxi/classic) ⭐ 1,072 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
+* [rxi/classic](https://github.com/rxi/classic) ⭐ 1,073 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 785 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
 * [Jumper](https://github.com/Yonaba/Jumper) ⭐ 649 | 🐛 39 | 🌐 Lua | 📅 2022-10-21 - A pure Lua pathfinding library for grid-based games.
 * [Knife](https://github.com/airstruck/knife) ⭐ 519 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - A collection of useful micro-modules for Lua.
@@ -88,7 +88,7 @@ The following libraries are expected to work well-enough on the Playdate:
   * [Presentation from the creator](https://www.youtube.com/watch?v=fL46v-QmnNk)
 * [rxi/tick](https://github.com/rxi/tick) ⭐ 206 | 🐛 0 | 🌐 Lua | 📅 2015-03-11 - A small Lua module that simplifies the calling of functions at a set interval or after a delay.
 * [philanc/plc](https://github.com/philanc/plc) ⭐ 195 | 🐛 0 | 🌐 Lua | 📅 2025-07-20 - Pure Lua Crypto. Crpytographic functions and utilities implemented in pure Lua.
-* [AnimatedSprite](https://github.com/Whitebrim/AnimatedSprite) ⭐ 167 | 🐛 1 | 🌐 Lua | 📅 2026-02-05 - A lua-based library for animating sprites. Containing finite state machine, json configuration and plugNplay behaviour.
+* [AnimatedSprite](https://github.com/Whitebrim/AnimatedSprite) ⭐ 168 | 🐛 1 | 🌐 Lua | 📅 2026-02-05 - A lua-based library for animating sprites. Containing finite state machine, json configuration and plugNplay behaviour.
 * [deep](https://github.com/Nikaoto/deep) ⭐ 108 | 🐛 1 | 🌐 Lua | 📅 2026-02-17 - An "action-queue" library; helpful for things like z-indexing (although the Playdate already has z-index support in its draw ordering).
 * [profile.lua](https://github.com/2dengine/profile.lua) ⭐ 97 | 🐛 0 | 🌐 Lua | 📅 2026-08-11 - Performance profiling for Lua applications.
 * [lua-star](https://github.com/wesleywerner/lua-star) ⭐ 79 | 🐛 0 | 🌐 Lua | 📅 2021-07-25 - A\* pathfinding in pure Lua.
@@ -101,7 +101,7 @@ The following libraries are expected to work well-enough on the Playdate:
 
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,467 | 🐛 2 | 🌐 PowerShell | 📅 2026-06-18 for additional resources.
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,469 | 🐛 2 | 🌐 PowerShell | 📅 2026-06-18 for additional resources.
 
 * [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
 * [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) ⚠️ Archived - A basic template for previewing games built with LÖVE in a Playdate-like environment.
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
