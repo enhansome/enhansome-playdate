@@ -60,7 +60,7 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 ###### Unofficial
 
-* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 195 | 🐛 112 | 🌐 Rust | 📅 2026-08-19
+* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 195 | 🐛 113 | 🌐 Rust | 📅 2026-08-19
 * [Playdate SDK Docker Image](https://github.com/hjhart/playdate-docker) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2022-09-08
 * [Install Playdate SDK with Package Managers](https://gist.github.com/idleberg/e246f7a582ac173d156c60ec23ce2af0)
 
@@ -101,7 +101,7 @@ The following libraries are expected to work well-enough on the Playdate:
 
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,470 | 🐛 2 | 🌐 PowerShell | 📅 2026-06-18 for additional resources.
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,471 | 🐛 2 | 🌐 PowerShell | 📅 2026-06-18 for additional resources.
 
 * [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
 * [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) ⚠️ Archived - A basic template for previewing games built with LÖVE in a Playdate-like environment.
@@ -109,7 +109,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 #### C
 
 * [Taxman Engine](https://github.com/McDevon/taxman-engine) ⭐ 134 | 🐛 0 | 🌐 C | 📅 2024-10-15 - A 2D, platform-independent game engine designed for the Playdate. Online demo [here](https://mcdevon.github.io/taxman-wasm/).
-* [Prismatic Engine](https://github.com/Sheep42/prismatic-engine) ⭐ 18 | 🐛 7 | 🌐 C | 📅 2026-05-02 - A 2D game engine designed for faster prototyping and simplified development with the Playdate C API.
+* [Prismatic Engine](https://github.com/Sheep42/prismatic-engine) ⭐ 19 | 🐛 7 | 🌐 C | 📅 2026-05-02 - A 2D game engine designed for faster prototyping and simplified development with the Playdate C API.
 * [Playdate Game Development in C](https://rua.ua.es/dspace/bitstream/10045/117000/1/Playdate_game_development_in_C_Benavent_Ramon_Alberto.pdf) - Alberto Benavent Ramón's Bachelor's Thesis in Multimedia Engineering, explores the hardware and software of the Playdate
 
 ##### Low-level Hardware Documentation & Datasheets
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

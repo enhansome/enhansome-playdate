@@ -377,7 +377,7 @@
                     "last_commit": "2026-05-02T17:57:47Z",
                     "owner": "Sheep42",
                     "repo": "prismatic-engine",
-                    "stars": 18
+                    "stars": 19
                   }
                 }
               ],
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:51:02.155Z",
+    "last_updated": "2026-08-21T14:49:46.088Z",
     "original_repository": "sayhiben/awesome-playdate",
     "original_repository_id": 392065867,
     "original_repository_sha": "c944ac7bedfb0cb3ffa77fbfd574e105da76226c",
