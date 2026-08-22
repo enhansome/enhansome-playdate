@@ -20,7 +20,7 @@
                             "archived": false,
                             "id": 688447185,
                             "language": "Rust",
-                            "last_commit": "2026-08-19T15:38:06Z",
+                            "last_commit": "2026-08-21T15:40:43Z",
                             "owner": "boozook",
                             "repo": "playdate",
                             "stars": 195
@@ -65,7 +65,7 @@
                         "last_commit": "2023-11-28T04:38:13Z",
                         "owner": "rxi",
                         "repo": "json.lua",
-                        "stars": 2183
+                        "stars": 2185
                       }
                     },
                     {
@@ -95,7 +95,7 @@
                         "last_commit": "2023-11-19T23:59:15Z",
                         "owner": "rxi",
                         "repo": "lume",
-                        "stars": 1238
+                        "stars": 1239
                       }
                     },
                     {
@@ -170,7 +170,7 @@
                         "last_commit": "2018-09-17T16:10:33Z",
                         "owner": "airstruck",
                         "repo": "knife",
-                        "stars": 519
+                        "stars": 520
                       }
                     },
                     {
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:49:46.088Z",
+    "last_updated": "2026-08-22T14:34:32.090Z",
     "original_repository": "sayhiben/awesome-playdate",
     "original_repository_id": 392065867,
     "original_repository_sha": "c944ac7bedfb0cb3ffa77fbfd574e105da76226c",
