@@ -60,7 +60,7 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 ###### Unofficial
 
-* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 195 | 🐛 113 | 🌐 Rust | 📅 2026-08-21
+* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 195 | 🐛 114 | 🌐 Rust | 📅 2026-08-21
 * [Playdate SDK Docker Image](https://github.com/hjhart/playdate-docker) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2022-09-08
 * [Install Playdate SDK with Package Managers](https://gist.github.com/idleberg/e246f7a582ac173d156c60ec23ce2af0)
 
@@ -101,10 +101,10 @@ The following libraries are expected to work well-enough on the Playdate:
 
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,473 | 🐛 2 | 🌐 PowerShell | 📅 2026-06-18 for additional resources.
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,474 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 for additional resources.
 
-* [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
 * [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) ⚠️ Archived - A basic template for previewing games built with LÖVE in a Playdate-like environment.
+* [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
 
 #### C
 
@@ -148,10 +148,10 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 ### Development & Graphics tools
 
+* [PlaydateLDtkImporter](https://github.com/NicMagnier/PlaydateLDtkImporter) ⭐ 130 | 🐛 4 | 🌐 Lua | 📅 2024-03-29 - Load tilemaps created with LDtk in playdate games
 * [Tiled](https://www.mapeditor.org/) - 2D map editor
 * [Thrshold](https://www.figma.com/community/plugin/776033210163988440/Thrshold) - Figma plugin to apply a threshold effect filter
 * [LDtk](https://ldtk.io) - A modern 2D level editor with a strong focus on user-friendliness
-* [PlaydateLDtkImporter](https://github.com/NicMagnier/PlaydateLDtkImporter) ⭐ 130 | 🐛 4 | 🌐 Lua | 📅 2024-03-29 - Load tilemaps created with LDtk in playdate games
 
 ### Development Concepts
 
@@ -182,8 +182,8 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 ### Fonts
 
-* [Playdate Arcade Fonts](https://idleberg.github.io/playdate-arcade-fonts/) - Collection of classic arcade fonts for the Playdate.
 * [PDFontTool](https://github.com/abenokobo/PDFontTool) ⭐ 85 | 🐛 5 | 🌐 C++ | 📅 2022-05-18 - Converts TrueType Font, OpenType Font to Playdate Font.
+* [Playdate Arcade Fonts](https://idleberg.github.io/playdate-arcade-fonts/) - Collection of classic arcade fonts for the Playdate.
 
 ## Open Source Playdate Games & Example Code
 
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

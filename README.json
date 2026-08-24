@@ -342,6 +342,28 @@
                   "description": "The following libraries are expected to work well-enough on the Playdate:",
                   "node_type": "group",
                   "title": "Lua Libraries"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "love-playdate-emulation",
+                      "description": "A basic template for previewing games built with LÖVE in a Playdate-like environment.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 322402564,
+                        "language": "Lua",
+                        "last_commit": "2022-03-01T16:55:12Z",
+                        "owner": "cadin",
+                        "repo": "love-playdate-emulation",
+                        "stars": 28
+                      }
+                    }
+                  ],
+                  "description": "The Lua-based LÖVE framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.\nSee love2d-community/awesome-love2d for additional resources.",
+                  "node_type": "group",
+                  "title": "LOVE"
                 }
               ],
               "description": null,
@@ -379,6 +401,28 @@
                     "repo": "prismatic-engine",
                     "stars": 19
                   }
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Playdate Reverse Engineering",
+                      "description": "Unofficial documentation covering the Playdate's file formats, USB serial commands, and server API.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 464687607,
+                        "language": "Python",
+                        "last_commit": "2026-08-07T20:22:00Z",
+                        "owner": "cranksters",
+                        "repo": "playdate-reverse-engineering",
+                        "stars": 308
+                      }
+                    }
+                  ],
+                  "description": "This information was gleaned from a developer preview unit and screenshots.",
+                  "node_type": "group",
+                  "title": "Low-level Hardware Documentation & Datasheets"
                 }
               ],
               "description": null,
@@ -566,6 +610,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "PlaydateLDtkImporter",
+              "description": "Load tilemaps created with LDtk in playdate games",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 495102576,
+                "language": "Lua",
+                "last_commit": "2024-03-29T11:02:28Z",
+                "owner": "NicMagnier",
+                "repo": "PlaydateLDtkImporter",
+                "stars": 130
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development & Graphics tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Memory Icons",
               "description": "Open Source 1bit icon set",
               "children": [],
@@ -598,6 +664,28 @@
           "description": null,
           "node_type": "group",
           "title": "Graphics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PDFontTool",
+              "description": "Converts TrueType Font, OpenType Font to Playdate Font.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467722870,
+                "language": "C++",
+                "last_commit": "2022-05-18T00:11:09Z",
+                "owner": "abenokobo",
+                "repo": "PDFontTool",
+                "stars": 85
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fonts"
         }
       ],
       "title": "Game Development"
@@ -842,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:35:51.071Z",
+    "last_updated": "2026-08-24T14:22:33.951Z",
     "original_repository": "sayhiben/awesome-playdate",
     "original_repository_id": 392065867,
     "original_repository_sha": "c944ac7bedfb0cb3ffa77fbfd574e105da76226c",
