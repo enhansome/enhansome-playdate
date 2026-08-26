@@ -65,7 +65,7 @@
                         "last_commit": "2023-11-28T04:38:13Z",
                         "owner": "rxi",
                         "repo": "json.lua",
-                        "stars": 2185
+                        "stars": 2186
                       }
                     },
                     {
@@ -80,7 +80,7 @@
                         "last_commit": "2025-11-03T12:54:01Z",
                         "owner": "kikito",
                         "repo": "middleclass",
-                        "stars": 1918
+                        "stars": 1919
                       }
                     },
                     {
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:59:31.319Z",
+    "last_updated": "2026-08-26T14:58:13.865Z",
     "original_repository": "sayhiben/awesome-playdate",
     "original_repository_id": 392065867,
     "original_repository_sha": "c944ac7bedfb0cb3ffa77fbfd574e105da76226c",
