@@ -24,7 +24,8 @@
                             "owner": "boozook",
                             "repo": "playdate",
                             "stars": 195
-                          }
+                          },
+                          "first_seen": "2026-08-28T23:31:39.967Z"
                         },
                         {
                           "node_type": "item",
@@ -39,7 +40,8 @@
                             "owner": "hjhart",
                             "repo": "playdate-docker",
                             "stars": 11
-                          }
+                          },
+                          "first_seen": "2026-08-28T23:31:39.967Z"
                         }
                       ],
                       "description": null,
@@ -66,7 +68,8 @@
                         "owner": "rxi",
                         "repo": "json.lua",
                         "stars": 2185
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -81,7 +84,8 @@
                         "owner": "kikito",
                         "repo": "middleclass",
                         "stars": 1919
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -96,7 +100,8 @@
                         "owner": "rxi",
                         "repo": "lume",
                         "stars": 1240
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -110,8 +115,9 @@
                         "last_commit": "2023-09-29T16:28:50Z",
                         "owner": "kikito",
                         "repo": "bump.lua",
-                        "stars": 1099
-                      }
+                        "stars": 1098
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -126,7 +132,8 @@
                         "owner": "rxi",
                         "repo": "classic",
                         "stars": 1072
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -141,7 +148,8 @@
                         "owner": "bakpakin",
                         "repo": "tiny-ecs",
                         "stars": 786
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -156,7 +164,8 @@
                         "owner": "Yonaba",
                         "repo": "Jumper",
                         "stars": 650
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -171,7 +180,8 @@
                         "owner": "airstruck",
                         "repo": "knife",
                         "stars": 520
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -186,7 +196,8 @@
                         "owner": "NobleRobot",
                         "repo": "NobleEngine",
                         "stars": 508
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -201,7 +212,8 @@
                         "owner": "rxi",
                         "repo": "tick",
                         "stars": 206
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -216,7 +228,8 @@
                         "owner": "philanc",
                         "repo": "plc",
                         "stars": 195
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -231,7 +244,8 @@
                         "owner": "Whitebrim",
                         "repo": "AnimatedSprite",
                         "stars": 168
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -246,7 +260,8 @@
                         "owner": "Nikaoto",
                         "repo": "deep",
                         "stars": 109
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -261,7 +276,8 @@
                         "owner": "2dengine",
                         "repo": "profile.lua",
                         "stars": 99
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -276,7 +292,8 @@
                         "owner": "wesleywerner",
                         "repo": "lua-star",
                         "stars": 79
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -291,7 +308,8 @@
                         "owner": "rxi",
                         "repo": "shash",
                         "stars": 79
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -306,7 +324,8 @@
                         "owner": "ivansergeev",
                         "repo": "gfxp",
                         "stars": 72
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -321,7 +340,8 @@
                         "owner": "automattf",
                         "repo": "vector.lua",
                         "stars": 63
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     },
                     {
                       "node_type": "item",
@@ -336,7 +356,8 @@
                         "owner": "AavaGames",
                         "repo": "playdate-keyboard-based-menu-ui",
                         "stars": 4
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     }
                   ],
                   "description": "The following libraries are expected to work well-enough on the Playdate:",
@@ -358,7 +379,8 @@
                         "owner": "cadin",
                         "repo": "love-playdate-emulation",
                         "stars": 28
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     }
                   ],
                   "description": "The Lua-based LÖVE framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.\nSee love2d-community/awesome-love2d for additional resources.",
@@ -385,7 +407,8 @@
                     "owner": "McDevon",
                     "repo": "taxman-engine",
                     "stars": 134
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:39.967Z"
                 },
                 {
                   "node_type": "item",
@@ -400,7 +423,8 @@
                     "owner": "Sheep42",
                     "repo": "prismatic-engine",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:39.967Z"
                 },
                 {
                   "children": [
@@ -417,7 +441,8 @@
                         "owner": "cranksters",
                         "repo": "playdate-reverse-engineering",
                         "stars": 308
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:31:39.967Z"
                     }
                   ],
                   "description": "This information was gleaned from a developer preview unit and screenshots.",
@@ -444,7 +469,8 @@
                     "owner": "pd-rs",
                     "repo": "crankstart",
                     "stars": 261
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:39.967Z"
                 },
                 {
                   "node_type": "item",
@@ -459,7 +485,8 @@
                     "owner": "Whitebrim",
                     "repo": "VSCode-PlaydateTemplate",
                     "stars": 220
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:39.967Z"
                 },
                 {
                   "node_type": "item",
@@ -474,7 +501,8 @@
                     "owner": "GamesRightMeow",
                     "repo": "playbit",
                     "stars": 114
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:39.967Z"
                 },
                 {
                   "node_type": "item",
@@ -489,7 +517,8 @@
                     "owner": "nstbayless",
                     "repo": "mini3d-plus",
                     "stars": 86
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:39.967Z"
                 },
                 {
                   "node_type": "item",
@@ -504,7 +533,8 @@
                     "owner": "samdze",
                     "repo": "playdate-nim",
                     "stars": 81
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:39.967Z"
                 },
                 {
                   "node_type": "item",
@@ -519,7 +549,8 @@
                     "owner": "cranksters",
                     "repo": "pd-usb",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:39.967Z"
                 },
                 {
                   "node_type": "item",
@@ -534,7 +565,8 @@
                     "owner": "igaryhe",
                     "repo": "playdate-rs",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:39.967Z"
                 },
                 {
                   "node_type": "item",
@@ -549,7 +581,8 @@
                     "owner": "am1goo",
                     "repo": "playdate4j",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:39.967Z"
                 },
                 {
                   "node_type": "item",
@@ -564,7 +597,8 @@
                     "owner": "dknight",
                     "repo": "pd.sh",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:39.967Z"
                 },
                 {
                   "node_type": "item",
@@ -579,7 +613,8 @@
                     "owner": "loughlincodes",
                     "repo": "playdate-vscode-build-macos",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:39.967Z"
                 },
                 {
                   "node_type": "item",
@@ -594,7 +629,8 @@
                     "owner": "imrmnabil",
                     "repo": "VSCode-PlaydateTemplateForLinux",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:39.967Z"
                 }
               ],
               "description": "These projects represent experiments with the Playdate. Use at your own risk.",
@@ -621,7 +657,8 @@
                 "owner": "NicMagnier",
                 "repo": "PlaydateLDtkImporter",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T23:31:39.967Z"
             }
           ],
           "description": null,
@@ -643,7 +680,8 @@
                 "owner": "Pictogrammers",
                 "repo": "Memory",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T23:31:39.967Z"
             },
             {
               "node_type": "item",
@@ -658,7 +696,8 @@
                 "owner": "neil-morrison44",
                 "repo": "drawdate",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:31:39.967Z"
             }
           ],
           "description": null,
@@ -680,7 +719,8 @@
                 "owner": "abenokobo",
                 "repo": "PDFontTool",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T23:31:39.967Z"
             }
           ],
           "description": null,
@@ -706,7 +746,8 @@
             "owner": "cadin",
             "repo": "panels",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
         },
         {
           "node_type": "item",
@@ -721,7 +762,8 @@
             "owner": "cadin",
             "repo": "panels",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
         },
         {
           "node_type": "item",
@@ -736,7 +778,8 @@
             "owner": "jaames",
             "repo": "playnote-studio",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
         },
         {
           "node_type": "item",
@@ -751,7 +794,8 @@
             "owner": "timboe",
             "repo": "FactoryFarming",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
         },
         {
           "node_type": "item",
@@ -766,7 +810,8 @@
             "owner": "nstbayless",
             "repo": "mini3d-plus",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
         },
         {
           "node_type": "item",
@@ -781,7 +826,8 @@
             "owner": "nstbayless",
             "repo": "mini3d-plus",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
         },
         {
           "node_type": "item",
@@ -796,7 +842,8 @@
             "owner": "bedinotti",
             "repo": "playlate",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
         },
         {
           "node_type": "item",
@@ -811,7 +858,8 @@
             "owner": "pd-rs",
             "repo": "crankstart-klondike",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
         },
         {
           "node_type": "item",
@@ -826,7 +874,8 @@
             "owner": "NicMagnier",
             "repo": "PickPackPup",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
         },
         {
           "node_type": "item",
@@ -841,7 +890,8 @@
             "owner": "aliasaria",
             "repo": "BrickCrusher2020",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
         },
         {
           "node_type": "item",
@@ -856,7 +906,8 @@
             "owner": "notpeter",
             "repo": "playdate-friction",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
         },
         {
           "node_type": "item",
@@ -871,7 +922,8 @@
             "owner": "artsy",
             "repo": "hack-playdate-gallery",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
         },
         {
           "node_type": "item",
@@ -886,7 +938,8 @@
             "owner": "Whitebrim",
             "repo": "Game-of-life-love2d-playdate",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
         },
         {
           "node_type": "item",
@@ -901,7 +954,8 @@
             "owner": "CGagnier",
             "repo": "six-card-golf",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
         },
         {
           "node_type": "group",
@@ -921,7 +975,8 @@
                 "owner": "neil-morrison44",
                 "repo": "playdate_jam_etiquette",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:31:39.967Z"
             }
           ]
         }
@@ -930,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:45:34.698Z",
+    "last_updated": "2026-08-28T23:31:39.967Z",
     "original_repository_info": {
       "archived": false,
       "id": 392065867,
