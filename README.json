@@ -152,7 +152,7 @@
                         "open_issues": 13,
                         "owner": "kikito",
                         "repo": "bump.lua",
-                        "stars": 1098,
+                        "stars": 1099,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -194,7 +194,7 @@
                         "open_issues": 0,
                         "owner": "bakpakin",
                         "repo": "tiny-ecs",
-                        "stars": 786,
+                        "stars": 787,
                         "topics": [
                           "entity-component",
                           "entity-component-system",
@@ -573,7 +573,7 @@
                     "open_issues": 0,
                     "owner": "McDevon",
                     "repo": "taxman-engine",
-                    "stars": 134,
+                    "stars": 133,
                     "topics": [
                       "2d-game-engine",
                       "c",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:39:23.679Z",
+    "last_updated": "2026-08-29T17:42:22.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
