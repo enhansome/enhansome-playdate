@@ -18,12 +18,25 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Playdate Dev Tools and API",
+                            "homepage": "https://matrix.to/#/#playdate.rs:matrix.org",
                             "id": 688447185,
                             "language": "Rust",
-                            "last_commit": "2026-08-26T16:23:26Z",
+                            "license": "MIT",
+                            "last_commit": "2026-08-28T23:59:20Z",
+                            "open_issues": 114,
                             "owner": "boozook",
                             "repo": "playdate",
-                            "stars": 195
+                            "stars": 195,
+                            "topics": [
+                              "build-system",
+                              "build-tool",
+                              "gamedev",
+                              "playdate",
+                              "playdate-console",
+                              "playdate-sdk",
+                              "rust"
+                            ]
                           },
                           "first_seen": "2026-08-28T23:31:39.967Z"
                         },
@@ -34,12 +47,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": null,
+                            "homepage": null,
                             "id": 533595699,
                             "language": "Lua",
+                            "license": null,
                             "last_commit": "2022-09-08T21:51:51Z",
+                            "open_issues": 0,
                             "owner": "hjhart",
                             "repo": "playdate-docker",
-                            "stars": 11
+                            "stars": 11,
+                            "topics": []
                           },
                           "first_seen": "2026-08-28T23:31:39.967Z"
                         }
@@ -62,12 +80,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A lightweight JSON library for Lua",
+                        "homepage": null,
                         "id": 40619562,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2023-11-28T04:38:13Z",
+                        "open_issues": 28,
                         "owner": "rxi",
                         "repo": "json.lua",
-                        "stars": 2185
+                        "stars": 2185,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -78,12 +101,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Object-orientation for Lua",
+                        "homepage": "https://github.com/kikito/middleclass",
                         "id": 622403,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2025-11-03T12:54:01Z",
+                        "open_issues": 1,
                         "owner": "kikito",
                         "repo": "middleclass",
-                        "stars": 1919
+                        "stars": 1919,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -94,12 +122,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Lua functions geared towards gamedev",
+                        "homepage": null,
                         "id": 17262930,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2023-11-19T23:59:15Z",
+                        "open_issues": 22,
                         "owner": "rxi",
                         "repo": "lume",
-                        "stars": 1240
+                        "stars": 1240,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -110,12 +143,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A collision detection library for Lua",
+                        "homepage": null,
                         "id": 4465215,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2023-09-29T16:28:50Z",
+                        "open_issues": 13,
                         "owner": "kikito",
                         "repo": "bump.lua",
-                        "stars": 1098
+                        "stars": 1098,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -126,12 +164,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Tiny class module for Lua",
+                        "homepage": null,
                         "id": 17220820,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2021-12-31T14:37:20Z",
+                        "open_issues": 19,
                         "owner": "rxi",
                         "repo": "classic",
-                        "stars": 1072
+                        "stars": 1072,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -142,12 +185,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "ECS for Lua ",
+                        "homepage": "http://bakpakin.github.io/tiny-ecs/doc/",
                         "id": 32625028,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2023-03-15T01:27:58Z",
+                        "open_issues": 0,
                         "owner": "bakpakin",
                         "repo": "tiny-ecs",
-                        "stars": 786
+                        "stars": 786,
+                        "topics": [
+                          "entity-component",
+                          "entity-component-system",
+                          "love2d",
+                          "lua"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -158,12 +211,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Fast, lightweight and easy-to-use pathfinding library for grid-based games",
+                        "homepage": "http://yonaba.github.io/Jumper",
                         "id": 6157826,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2022-10-21T09:02:33Z",
+                        "open_issues": 39,
                         "owner": "Yonaba",
                         "repo": "Jumper",
-                        "stars": 650
+                        "stars": 650,
+                        "topics": [
+                          "gamedev",
+                          "lua",
+                          "pathfinding",
+                          "pathfinding-algorithms",
+                          "pathfinding-library"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -174,12 +238,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A collection of useful micro-modules for Lua.",
+                        "homepage": null,
                         "id": 38066732,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2018-09-17T16:10:33Z",
+                        "open_issues": 2,
                         "owner": "airstruck",
                         "repo": "knife",
-                        "stars": 520
+                        "stars": 520,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -190,12 +259,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A li'l game engine for Playdate.",
+                        "homepage": "https://noblerobot.github.io/NobleEngine/",
                         "id": 348807362,
                         "language": "Lua",
+                        "license": "NOASSERTION",
                         "last_commit": "2024-07-07T04:19:10Z",
+                        "open_issues": 21,
                         "owner": "NobleRobot",
                         "repo": "NobleEngine",
-                        "stars": 508
+                        "stars": 508,
+                        "topics": [
+                          "2d-game-engine",
+                          "game-development",
+                          "game-engine",
+                          "game-engine-2d",
+                          "lua",
+                          "playdate",
+                          "playdate-console",
+                          "playdate-sdk"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -206,12 +289,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Lua module for delaying function calls",
+                        "homepage": null,
                         "id": 29880419,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2015-03-11T20:46:36Z",
+                        "open_issues": 0,
                         "owner": "rxi",
                         "repo": "tick",
-                        "stars": 206
+                        "stars": 206,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -222,12 +310,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Pure Lua Crypto",
+                        "homepage": null,
                         "id": 42426373,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2025-07-20T23:54:26Z",
+                        "open_issues": 0,
                         "owner": "philanc",
                         "repo": "plc",
-                        "stars": 195
+                        "stars": 195,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -238,12 +331,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Sprite class extension with imagetable animation and finite state machine support for @Playdate",
+                        "homepage": null,
                         "id": 416512904,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2026-02-05T17:07:01Z",
+                        "open_issues": 1,
                         "owner": "Whitebrim",
                         "repo": "AnimatedSprite",
-                        "stars": 168
+                        "stars": 168,
+                        "topics": [
+                          "animation",
+                          "library",
+                          "lua",
+                          "playdate",
+                          "sprites"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -254,12 +358,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Adds drawing layers to Love2D (or any Lua framework)",
+                        "homepage": null,
                         "id": 106171702,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2026-02-17T11:10:18Z",
+                        "open_issues": 1,
                         "owner": "Nikaoto",
                         "repo": "deep",
-                        "stars": 109
+                        "stars": 109,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -270,12 +379,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Small profiler for Lua and LuaJIT",
+                        "homepage": null,
                         "id": 437219910,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2026-08-11T19:44:16Z",
+                        "open_issues": 0,
                         "owner": "2dengine",
                         "repo": "profile.lua",
-                        "stars": 99
+                        "stars": 99,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -286,12 +400,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Easy A* path finding for Lua",
+                        "homepage": null,
                         "id": 112820645,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2021-07-25T21:38:03Z",
+                        "open_issues": 0,
                         "owner": "wesleywerner",
                         "repo": "lua-star",
-                        "stars": 79
+                        "stars": 79,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -302,12 +421,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A simple, lightweight spatial hash for Lua",
+                        "homepage": null,
                         "id": 66136254,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2022-06-22T05:41:03Z",
+                        "open_issues": 0,
                         "owner": "rxi",
                         "repo": "shash",
-                        "stars": 79
+                        "stars": 79,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -318,12 +442,27 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "GFXP is a useful lib & tool for working with patterns for Playdate console",
+                        "homepage": "https://dev.crankit.app/tools/gfxp/",
                         "id": 267327813,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2024-07-05T10:51:05Z",
+                        "open_issues": 0,
                         "owner": "ivansergeev",
                         "repo": "gfxp",
-                        "stars": 72
+                        "stars": 72,
+                        "topics": [
+                          "gfxp",
+                          "gfxp-editor",
+                          "gfxp-lib",
+                          "lua",
+                          "panic",
+                          "pattern",
+                          "pattern-lib",
+                          "patterns",
+                          "playdate"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -334,12 +473,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "a simple vector library for Lua based on the PVector class from processing",
+                        "homepage": null,
                         "id": 151206429,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2024-12-03T16:15:43Z",
+                        "open_issues": 3,
                         "owner": "automattf",
                         "repo": "vector.lua",
-                        "stars": 63
+                        "stars": 63,
+                        "topics": [
+                          "game-development",
+                          "love2d",
+                          "lua",
+                          "vectors"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     },
@@ -350,12 +499,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 777396405,
                         "language": "Lua",
+                        "license": "MIT",
                         "last_commit": "2024-03-26T14:09:42Z",
+                        "open_issues": 0,
                         "owner": "AavaGames",
                         "repo": "playdate-keyboard-based-menu-ui",
-                        "stars": 4
+                        "stars": 4,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     }
@@ -373,12 +527,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "A basic template for previewing games built with LÖVE in a Playdate-like environment.",
+                        "homepage": null,
                         "id": 322402564,
                         "language": "Lua",
+                        "license": "Unlicense",
                         "last_commit": "2022-03-01T16:55:12Z",
+                        "open_issues": 0,
                         "owner": "cadin",
                         "repo": "love-playdate-emulation",
-                        "stars": 28
+                        "stars": 28,
+                        "topics": [
+                          "love2d",
+                          "lua",
+                          "playdate"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     }
@@ -401,12 +564,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Game Engine for Embedded Systems",
+                    "homepage": null,
                     "id": 293328457,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2024-10-15T09:40:11Z",
+                    "open_issues": 0,
                     "owner": "McDevon",
                     "repo": "taxman-engine",
-                    "stars": 134
+                    "stars": 134,
+                    "topics": [
+                      "2d-game-engine",
+                      "c",
+                      "embedded",
+                      "game-development",
+                      "game-engine",
+                      "gamedev",
+                      "playdate"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:39.967Z"
                 },
@@ -417,12 +593,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A game engine for the Playdate C API",
+                    "homepage": null,
                     "id": 763314978,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-05-02T17:57:47Z",
+                    "open_issues": 7,
                     "owner": "Sheep42",
                     "repo": "prismatic-engine",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:39.967Z"
                 },
@@ -435,12 +616,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Panic Playdate reverse-engineering notes/tools - covers file formats, server API and USB commands",
+                        "homepage": null,
                         "id": 464687607,
                         "language": "Python",
+                        "license": "CC0-1.0",
                         "last_commit": "2026-08-07T20:22:00Z",
+                        "open_issues": 1,
                         "owner": "cranksters",
                         "repo": "playdate-reverse-engineering",
-                        "stars": 308
+                        "stars": 308,
+                        "topics": [
+                          "file-formats",
+                          "playdate",
+                          "playdate-reverse-engineering",
+                          "reverse-engineering",
+                          "usb-serial"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
                     }
@@ -463,12 +655,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A barely functional, wildly incomplete and basically undocumented Rust crate whose aim is to let you write Games for the Playdate handheld gaming system in Rust.",
+                    "homepage": null,
                     "id": 273092647,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2025-04-05T15:41:45Z",
+                    "open_issues": 15,
                     "owner": "pd-rs",
                     "repo": "crankstart",
-                    "stars": 261
+                    "stars": 261,
+                    "topics": [
+                      "game",
+                      "panic",
+                      "playdate",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:39.967Z"
                 },
@@ -479,12 +681,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This template will help you with autocompletion and running your code in simulator. Windows & Linux.",
+                    "homepage": null,
                     "id": 388957153,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2024-11-27T14:25:20Z",
+                    "open_issues": 2,
                     "owner": "Whitebrim",
                     "repo": "VSCode-PlaydateTemplate",
-                    "stars": 220
+                    "stars": 220,
+                    "topics": [
+                      "linux",
+                      "lua",
+                      "panic",
+                      "playdate",
+                      "vscode",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:39.967Z"
                 },
@@ -495,12 +709,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Playbit is a framework for creating cross-platform Playdate games from a single Lua codebase.",
+                    "homepage": null,
                     "id": 411501275,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2026-07-29T15:34:19Z",
+                    "open_issues": 60,
                     "owner": "GamesRightMeow",
                     "repo": "playbit",
-                    "stars": 114
+                    "stars": 114,
+                    "topics": [
+                      "game-development",
+                      "game-engine",
+                      "love2d",
+                      "lua",
+                      "playdate",
+                      "playdate-console"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:39.967Z"
                 },
@@ -511,12 +737,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a kart game and engine for the playdate",
+                    "homepage": null,
                     "id": 466593352,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-02-08T19:35:34Z",
+                    "open_issues": 2,
                     "owner": "nstbayless",
                     "repo": "mini3d-plus",
-                    "stars": 86
+                    "stars": 86,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:39.967Z"
                 },
@@ -527,12 +758,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nim bindings with extra features for the Playdate SDK",
+                    "homepage": "https://samdze.github.io/playdate-nim/",
                     "id": 585570077,
                     "language": "Nim",
+                    "license": null,
                     "last_commit": "2026-07-31T02:01:29Z",
+                    "open_issues": 5,
                     "owner": "samdze",
                     "repo": "playdate-nim",
-                    "stars": 81
+                    "stars": 81,
+                    "topics": [
+                      "game-development",
+                      "nim",
+                      "nim-lang",
+                      "playdate",
+                      "playdate-sdk"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:39.967Z"
                 },
@@ -543,12 +785,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JavaScript library for interacting with a Panic Playdate console over USB, wherever WebSerial is supported.",
+                    "homepage": "https://cranksters.github.io/pd-usb/",
                     "id": 400126782,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-12-08T23:50:57Z",
+                    "open_issues": 0,
                     "owner": "cranksters",
                     "repo": "pd-usb",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": [
+                      "handheld",
+                      "playdate",
+                      "reverse-engineering",
+                      "serial",
+                      "usb",
+                      "webserial"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:39.967Z"
                 },
@@ -559,12 +813,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rust wrapper for Playdate C API",
+                    "homepage": null,
                     "id": 313488285,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2021-06-19T04:07:34Z",
+                    "open_issues": 0,
                     "owner": "igaryhe",
                     "repo": "playdate-rs",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:39.967Z"
                 },
@@ -575,12 +834,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java framework to create games for Playdate console made by Panic Inc.",
+                    "homepage": null,
                     "id": 753464586,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2024-09-07T18:17:54Z",
+                    "open_issues": 0,
                     "owner": "am1goo",
                     "repo": "playdate4j",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "2d",
+                      "2dengine",
+                      "api",
+                      "console",
+                      "console-game",
+                      "console-game-engine",
+                      "framework",
+                      "gamedev",
+                      "gamedevelopment",
+                      "gameengine",
+                      "java",
+                      "java16",
+                      "jdk",
+                      "playdate",
+                      "playdate-console",
+                      "simulator",
+                      "sprites",
+                      "wrapper"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:39.967Z"
                 },
@@ -591,12 +874,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple shell script to make development for Playdate a bit easier from the command line on the Unix-like systems, using shell.",
+                    "homepage": null,
                     "id": 885611642,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2025-11-02T23:01:15Z",
+                    "open_issues": 0,
                     "owner": "dknight",
                     "repo": "pd.sh",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:39.967Z"
                 },
@@ -607,12 +895,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Build and run Playdate projects in VSCode",
+                    "homepage": null,
                     "id": 609259697,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2023-03-14T14:42:57Z",
+                    "open_issues": 0,
                     "owner": "loughlincodes",
                     "repo": "playdate-vscode-build-macos",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:39.967Z"
                 },
@@ -623,12 +916,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This template will help you with autocompletion and running your code in simulator. Linux only.",
+                    "homepage": null,
                     "id": 559030113,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2022-10-28T22:05:07Z",
+                    "open_issues": 0,
                     "owner": "imrmnabil",
                     "repo": "VSCode-PlaydateTemplateForLinux",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:39.967Z"
                 }
@@ -651,12 +949,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Load tilemaps created with LDtk in your playdate games",
+                "homepage": null,
                 "id": 495102576,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-03-29T11:02:28Z",
+                "open_issues": 4,
                 "owner": "NicMagnier",
                 "repo": "PlaydateLDtkImporter",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:39.967Z"
             }
@@ -674,12 +977,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Memory Icon Set; ideal for use with Sharp Memory Display 2.7\"",
+                "homepage": null,
                 "id": 514746535,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-31T20:34:20Z",
+                "open_issues": 12,
                 "owner": "Pictogrammers",
                 "repo": "Memory",
-                "stars": 201
+                "stars": 201,
+                "topics": [
+                  "icons",
+                  "pixel-art",
+                  "playdate"
+                ]
               },
               "first_seen": "2026-08-28T23:31:39.967Z"
             },
@@ -690,12 +1002,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for creating 1 bit art for the PlayDate console",
+                "homepage": null,
                 "id": 281223552,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-01-06T13:15:17Z",
+                "open_issues": 22,
                 "owner": "neil-morrison44",
                 "repo": "drawdate",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:39.967Z"
             }
@@ -713,12 +1030,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts TrueType Font(.ttf), OpenType Font(.otf) to Playdate Font(.fnt + png).",
+                "homepage": null,
                 "id": 467722870,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-05-18T00:11:09Z",
+                "open_issues": 5,
                 "owner": "abenokobo",
                 "repo": "PDFontTool",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "lua",
+                  "playdate",
+                  "playdate-font",
+                  "vscode",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:31:39.967Z"
             }
@@ -740,12 +1068,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build interactive comics for the Playdate console.",
+            "homepage": null,
             "id": 392811741,
             "language": "Lua",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-07-15T18:00:40Z",
+            "open_issues": 2,
             "owner": "cadin",
             "repo": "panels",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "comics",
+              "playdate"
+            ]
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -756,12 +1092,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build interactive comics for the Playdate console.",
+            "homepage": null,
             "id": 392811741,
             "language": "Lua",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-07-15T18:00:40Z",
+            "open_issues": 2,
             "owner": "cadin",
             "repo": "panels",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "comics",
+              "playdate"
+            ]
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -772,12 +1116,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An unofficial Flipnote Studio animation player for the Playdate console!",
+            "homepage": "https://playnote.studio",
             "id": 409634236,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-02-12T00:57:36Z",
+            "open_issues": 5,
             "owner": "jaames",
             "repo": "playnote-studio",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "flipnote",
+              "flipnotestudio",
+              "nintendo",
+              "nintendo-ds",
+              "playdate"
+            ]
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -788,12 +1143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 492929421,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-04-27T17:01:20Z",
+            "open_issues": 0,
             "owner": "timboe",
             "repo": "FactoryFarming",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -804,12 +1164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a kart game and engine for the playdate",
+            "homepage": null,
             "id": 466593352,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-08T19:35:34Z",
+            "open_issues": 2,
             "owner": "nstbayless",
             "repo": "mini3d-plus",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -820,12 +1185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a kart game and engine for the playdate",
+            "homepage": null,
             "id": 466593352,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-08T19:35:34Z",
+            "open_issues": 2,
             "owner": "nstbayless",
             "repo": "mini3d-plus",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -836,12 +1206,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template for Playdate games",
+            "homepage": null,
             "id": 466943268,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-03-22T02:29:11Z",
+            "open_issues": 2,
             "owner": "bedinotti",
             "repo": "playlate",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "c",
+              "lua",
+              "playdate"
+            ]
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -852,12 +1231,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example of how to use the Crankstart crate to write games for the Playdate handheld gaming system in Rust",
+            "homepage": null,
             "id": 273732407,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2022-11-05T04:02:02Z",
+            "open_issues": 0,
             "owner": "pd-rs",
             "repo": "crankstart-klondike",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "game",
+              "panic",
+              "playdate",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -868,12 +1257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code of the playdate game Pick Pack Pup",
+            "homepage": null,
             "id": 639527235,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-05-16T21:48:49Z",
+            "open_issues": 0,
             "owner": "NicMagnier",
             "repo": "PickPackPup",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -884,12 +1278,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BrickCrusher2020 for Playdate is a remake of classic BrickBreaker by the original developer of BrickBreaker",
+            "homepage": null,
             "id": 466618764,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-09-18T19:43:49Z",
+            "open_issues": 0,
             "owner": "aliasaria",
             "repo": "BrickCrusher2020",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "brickbreaker",
+              "playdate",
+              "playdate-console"
+            ]
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -900,12 +1303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gimme Friction Baby: Playdate Tribute",
+            "homepage": null,
             "id": 491215506,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-02-13T14:31:07Z",
+            "open_issues": 1,
             "owner": "notpeter",
             "repo": "playdate-friction",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -916,12 +1324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 475555870,
             "language": "Lua",
+            "license": null,
             "last_commit": "2022-04-01T13:44:59Z",
+            "open_issues": 0,
             "owner": "artsy",
             "repo": "hack-playdate-gallery",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -932,12 +1345,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Implementing Game of Life using love2d for practice for playdate",
+            "homepage": null,
             "id": 378503759,
             "language": "Lua",
+            "license": "Unlicense",
             "last_commit": "2021-06-27T17:22:01Z",
+            "open_issues": 0,
             "owner": "Whitebrim",
             "repo": "Game-of-life-love2d-playdate",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "love2d",
+              "playdate"
+            ]
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -948,12 +1369,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "First experiment of coding a game using love2d",
+            "homepage": null,
             "id": 283038779,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-01-01T00:48:35Z",
+            "open_issues": 0,
             "owner": "CGagnier",
             "repo": "six-card-golf",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "card-game",
+              "love2d",
+              "lua",
+              "playdate"
+            ]
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -969,12 +1400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Love2D game around the theme \"etiquette\", with PlayDate constraints",
+                "homepage": null,
                 "id": 310889896,
                 "language": "Lua",
+                "license": "AGPL-3.0",
                 "last_commit": "2020-11-15T04:30:07Z",
+                "open_issues": 0,
                 "owner": "neil-morrison44",
                 "repo": "playdate_jam_etiquette",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:39.967Z"
             }
@@ -985,15 +1421,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:31:39.967Z",
+    "last_updated": "2026-08-29T04:39:23.679Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
+      "homepage": null,
       "id": 392065867,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-01-19T07:00:05Z",
+      "open_issues": 8,
       "owner": "sayhiben",
       "repo": "awesome-playdate",
-      "stars": 694
+      "stars": 694,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "game-development",
+        "gamedev",
+        "love2d",
+        "lua",
+        "panic",
+        "playdate",
+        "pulp",
+        "pulpscript"
+      ]
     },
     "original_repository_sha": "c944ac7bedfb0cb3ffa77fbfd574e105da76226c",
     "enhanced_repository": "enhansome/enhansome-playdate",
