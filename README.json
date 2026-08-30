@@ -983,7 +983,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2023-12-31T20:34:20Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "Pictogrammers",
                 "repo": "Memory",
                 "stars": 201,
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:42:22.041Z",
+    "last_updated": "2026-08-30T18:02:42.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",

@@ -101,7 +101,7 @@ The following libraries are expected to work well-enough on the Playdate:
 
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,478 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 for additional resources.
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,481 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 for additional resources.
 
 * [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) ⚠️ Archived - A basic template for previewing games built with LÖVE in a Playdate-like environment.
 * [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
@@ -176,7 +176,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 ### Graphics
 
-* [Memory Icons](https://github.com/Pictogrammers/Memory) ⭐ 201 | 🐛 12 | 🌐 TypeScript | 📅 2023-12-31 - Open Source 1bit icon set
+* [Memory Icons](https://github.com/Pictogrammers/Memory) ⭐ 201 | 🐛 13 | 🌐 TypeScript | 📅 2023-12-31 - Open Source 1bit icon set
 * [DrawDate](https://neil.today/drawdate/) - 1-bit, browser-based sprite editor. [GitHub Source](https://github.com/neil-morrison44/drawdate) ⭐ 22 | 🐛 22 | 🌐 C | 📅 2023-01-06.
 * [Pixen](https://pixenapp.com) - Pixel art editor for Mac and iPad, with recent optimizations for [Playdate graphics creation](https://furnacecreek.org/blog/2024-01-28-pixen-and-playdate).
 
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
