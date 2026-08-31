@@ -110,7 +110,7 @@
                         "open_issues": 1,
                         "owner": "kikito",
                         "repo": "middleclass",
-                        "stars": 1919,
+                        "stars": 1920,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -268,7 +268,7 @@
                         "open_issues": 21,
                         "owner": "NobleRobot",
                         "repo": "NobleEngine",
-                        "stars": 508,
+                        "stars": 507,
                         "topics": [
                           "2d-game-engine",
                           "game-development",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:02:42.186Z",
+    "last_updated": "2026-08-31T19:59:34.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
