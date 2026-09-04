@@ -131,7 +131,7 @@
                         "open_issues": 22,
                         "owner": "rxi",
                         "repo": "lume",
-                        "stars": 1241,
+                        "stars": 1242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:49:07.595Z",
+    "last_updated": "2026-09-04T17:34:29.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
