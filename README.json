@@ -23,7 +23,7 @@
                             "id": 688447185,
                             "language": "Rust",
                             "license": "MIT",
-                            "last_commit": "2026-09-02T18:32:05Z",
+                            "last_commit": "2026-09-04T18:15:19Z",
                             "open_issues": 114,
                             "owner": "boozook",
                             "repo": "playdate",
@@ -110,7 +110,7 @@
                         "open_issues": 1,
                         "owner": "kikito",
                         "repo": "middleclass",
-                        "stars": 1921,
+                        "stars": 1923,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -131,7 +131,7 @@
                         "open_issues": 22,
                         "owner": "rxi",
                         "repo": "lume",
-                        "stars": 1242,
+                        "stars": 1243,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -152,7 +152,7 @@
                         "open_issues": 14,
                         "owner": "kikito",
                         "repo": "bump.lua",
-                        "stars": 1099,
+                        "stars": 1100,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -388,7 +388,7 @@
                         "open_issues": 0,
                         "owner": "2dengine",
                         "repo": "profile.lua",
-                        "stars": 100,
+                        "stars": 101,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:34:29.728Z",
+    "last_updated": "2026-09-05T16:47:45.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
