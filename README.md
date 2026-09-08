@@ -75,14 +75,14 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 The following libraries are expected to work well-enough on the Playdate:
 
-* [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,188 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
+* [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,189 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
 * [middleclass](https://github.com/kikito/middleclass) ⭐ 1,923 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - A simple OOP library for Lua that introduces inheritance, operator overloads, static variables, and mixin support.
-* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,242 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
+* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,243 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
 * [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,100 | 🐛 14 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
 * [rxi/classic](https://github.com/rxi/classic) ⭐ 1,073 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
-* [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 787 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
+* [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 788 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
 * [Jumper](https://github.com/Yonaba/Jumper) ⭐ 651 | 🐛 39 | 🌐 Lua | 📅 2022-10-21 - A pure Lua pathfinding library for grid-based games.
-* [Knife](https://github.com/airstruck/knife) ⭐ 521 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - A collection of useful micro-modules for Lua.
+* [Knife](https://github.com/airstruck/knife) ⭐ 522 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - A collection of useful micro-modules for Lua.
 * [Noble Engine](https://github.com/NobleRobot/NobleEngine) ⭐ 507 | 🐛 21 | 🌐 Lua | 📅 2024-07-07 - Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features.
   * [Documentation](https://noblerobot.github.io/NobleEngine/)
   * [Presentation from the creator](https://www.youtube.com/watch?v=fL46v-QmnNk)
@@ -101,7 +101,7 @@ The following libraries are expected to work well-enough on the Playdate:
 
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,491 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 for additional resources.
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,490 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 for additional resources.
 
 * [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) ⚠️ Archived - A basic template for previewing games built with LÖVE in a Playdate-like environment.
 * [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
@@ -187,8 +187,8 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 ## Open Source Playdate Games & Example Code
 
-* [Panels](https://github.com/cadin/panels) ⭐ 196 | 🐛 2 | 🌐 Lua | 📅 2026-07-15 – Build interactive comics for the Playdate console.
-* [Panels](https://github.com/cadin/panels) ⭐ 196 | 🐛 2 | 🌐 Lua | 📅 2026-07-15 – Build interactive comics for the Playdate console.
+* [Panels](https://github.com/cadin/panels) ⭐ 197 | 🐛 2 | 🌐 Lua | 📅 2026-07-15 – Build interactive comics for the Playdate console.
+* [Panels](https://github.com/cadin/panels) ⭐ 197 | 🐛 2 | 🌐 Lua | 📅 2026-07-15 – Build interactive comics for the Playdate console.
 * [Playnote Studio](https://github.com/jaames/playnote-studio) ⭐ 103 | 🐛 5 | 🌐 Lua | 📅 2026-02-12 - An unofficial Flipnote Studio animation player for the Playdate.
 * [Factory Farming](https://github.com/timboe/FactoryFarming) ⭐ 102 | 🐛 0 | 🌐 C | 📅 2026-04-27
 * [Mini3D+](https://github.com/nstbayless/mini3d-plus) ⭐ 86 | 🐛 2 | 🌐 C | 📅 2023-02-08 – Enhanced 3D engine for the Panic Playdate.
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
