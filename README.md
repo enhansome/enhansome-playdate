@@ -101,7 +101,7 @@ The following libraries are expected to work well-enough on the Playdate:
 
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,492 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 for additional resources.
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,494 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 for additional resources.
 
 * [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) ⚠️ Archived - A basic template for previewing games built with LÖVE in a Playdate-like environment.
 * [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
@@ -133,7 +133,7 @@ This information was gleaned from a developer preview unit and screenshots.
 
 These projects represent experiments with the Playdate. Use at your own risk.
 
-* [Crankstart](https://github.com/rtsuk/crankstart) ⭐ 261 | 🐛 15 | 🌐 Rust | 📅 2025-04-05 - An experimental Rust crate to write games for the Playdate in Rust.
+* [Crankstart](https://github.com/rtsuk/crankstart) ⭐ 261 | 🐛 16 | 🌐 Rust | 📅 2025-04-05 - An experimental Rust crate to write games for the Playdate in Rust.
 * [VSCode-PlaydateTemplate](https://github.com/Whitebrim/VSCode-PlaydateTemplate) ⭐ 220 | 🐛 2 | 🌐 Shell | 📅 2024-11-27 - VSCode autocompletion with the Playdate simulator. For Windows & Linux.
 * [playbit](https://github.com/GamesRightMeow/playbit) ⭐ 114 | 🐛 60 | 🌐 Lua | 📅 2026-07-29: Build cross-platform Playdate games, create build scripts, and utilize preprocessor macros!
 * [mini3d-plus](https://github.com/nstbayless/mini3d-plus) ⭐ 86 | 🐛 2 | 🌐 C | 📅 2023-02-08 - 3D engine based on the mini3d library provided in the SDK examples.
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

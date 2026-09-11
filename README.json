@@ -661,7 +661,7 @@
                     "language": "Rust",
                     "license": "MIT",
                     "last_commit": "2025-04-05T15:41:45Z",
-                    "open_issues": 15,
+                    "open_issues": 16,
                     "owner": "pd-rs",
                     "repo": "crankstart",
                     "stars": 261,
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:39:40.241Z",
+    "last_updated": "2026-09-11T17:43:23.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
