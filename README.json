@@ -23,7 +23,7 @@
                             "id": 688447185,
                             "language": "Rust",
                             "license": "MIT",
-                            "last_commit": "2026-09-09T18:28:07Z",
+                            "last_commit": "2026-09-11T18:21:09Z",
                             "open_issues": 114,
                             "owner": "boozook",
                             "repo": "playdate",
@@ -173,7 +173,7 @@
                         "open_issues": 19,
                         "owner": "rxi",
                         "repo": "classic",
-                        "stars": 1073,
+                        "stars": 1074,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:43:23.040Z",
+    "last_updated": "2026-09-12T17:04:11.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
