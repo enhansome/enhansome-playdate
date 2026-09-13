@@ -89,7 +89,7 @@
                         "open_issues": 28,
                         "owner": "rxi",
                         "repo": "json.lua",
-                        "stars": 2188,
+                        "stars": 2191,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -152,7 +152,7 @@
                         "open_issues": 14,
                         "owner": "kikito",
                         "repo": "bump.lua",
-                        "stars": 1100,
+                        "stars": 1101,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -173,7 +173,7 @@
                         "open_issues": 19,
                         "owner": "rxi",
                         "repo": "classic",
-                        "stars": 1074,
+                        "stars": 1075,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -690,7 +690,7 @@
                     "open_issues": 2,
                     "owner": "Whitebrim",
                     "repo": "VSCode-PlaydateTemplate",
-                    "stars": 220,
+                    "stars": 219,
                     "topics": [
                       "linux",
                       "lua",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:04:11.582Z",
+    "last_updated": "2026-09-13T17:23:24.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
