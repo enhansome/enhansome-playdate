@@ -23,7 +23,7 @@
                             "id": 688447185,
                             "language": "Rust",
                             "license": "MIT",
-                            "last_commit": "2026-09-11T18:21:09Z",
+                            "last_commit": "2026-09-14T19:48:32Z",
                             "open_issues": 114,
                             "owner": "boozook",
                             "repo": "playdate",
@@ -152,7 +152,7 @@
                         "open_issues": 14,
                         "owner": "kikito",
                         "repo": "bump.lua",
-                        "stars": 1101,
+                        "stars": 1100,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -194,7 +194,7 @@
                         "open_issues": 0,
                         "owner": "bakpakin",
                         "repo": "tiny-ecs",
-                        "stars": 788,
+                        "stars": 789,
                         "topics": [
                           "entity-component",
                           "entity-component-system",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:18:32.353Z",
+    "last_updated": "2026-09-15T18:08:26.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
