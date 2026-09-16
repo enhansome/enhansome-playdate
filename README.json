@@ -24,7 +24,7 @@
                             "language": "Rust",
                             "license": "MIT",
                             "last_commit": "2026-09-14T19:48:32Z",
-                            "open_issues": 114,
+                            "open_issues": 115,
                             "owner": "boozook",
                             "repo": "playdate",
                             "stars": 195,
@@ -110,7 +110,7 @@
                         "open_issues": 1,
                         "owner": "kikito",
                         "repo": "middleclass",
-                        "stars": 1924,
+                        "stars": 1925,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -625,7 +625,7 @@
                         "open_issues": 1,
                         "owner": "cranksters",
                         "repo": "playdate-reverse-engineering",
-                        "stars": 309,
+                        "stars": 310,
                         "topics": [
                           "file-formats",
                           "playdate",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:08:26.510Z",
+    "last_updated": "2026-09-16T18:09:59.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
