@@ -60,7 +60,7 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 ###### Unofficial
 
-* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 195 | 🐛 115 | 🌐 Rust | 📅 2026-09-14
+* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 195 | 🐛 115 | 🌐 Rust | 📅 2026-09-16
 * [Playdate SDK Docker Image](https://github.com/hjhart/playdate-docker) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2022-09-08
 * [Install Playdate SDK with Package Managers](https://gist.github.com/idleberg/e246f7a582ac173d156c60ec23ce2af0)
 
@@ -101,7 +101,7 @@ The following libraries are expected to work well-enough on the Playdate:
 
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,495 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 for additional resources.
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,496 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 for additional resources.
 
 * [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) ⚠️ Archived - A basic template for previewing games built with LÖVE in a Playdate-like environment.
 * [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
@@ -189,8 +189,8 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 * [Panels](https://github.com/cadin/panels) ⭐ 197 | 🐛 2 | 🌐 Lua | 📅 2026-07-15 – Build interactive comics for the Playdate console.
 * [Panels](https://github.com/cadin/panels) ⭐ 197 | 🐛 2 | 🌐 Lua | 📅 2026-07-15 – Build interactive comics for the Playdate console.
+* [Factory Farming](https://github.com/timboe/FactoryFarming) ⭐ 103 | 🐛 0 | 🌐 C | 📅 2026-04-27
 * [Playnote Studio](https://github.com/jaames/playnote-studio) ⭐ 103 | 🐛 5 | 🌐 Lua | 📅 2026-02-12 - An unofficial Flipnote Studio animation player for the Playdate.
-* [Factory Farming](https://github.com/timboe/FactoryFarming) ⭐ 102 | 🐛 0 | 🌐 C | 📅 2026-04-27
 * [Mini3D+](https://github.com/nstbayless/mini3d-plus) ⭐ 86 | 🐛 2 | 🌐 C | 📅 2023-02-08 – Enhanced 3D engine for the Panic Playdate.
 * [Mini3D+](https://github.com/nstbayless/mini3d-plus) ⭐ 86 | 🐛 2 | 🌐 C | 📅 2023-02-08 – Enhanced 3D engine for the Panic Playdate.
 * [Playlate](https://github.com/downie/playlate) ⭐ 69 | 🐛 2 | 🌐 Lua | 📅 2022-03-22 – A template for Playdate to explore Playdate SDK and build your games faster.
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

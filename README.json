@@ -23,7 +23,7 @@
                             "id": 688447185,
                             "language": "Rust",
                             "license": "MIT",
-                            "last_commit": "2026-09-14T19:48:32Z",
+                            "last_commit": "2026-09-16T18:48:01Z",
                             "open_issues": 115,
                             "owner": "boozook",
                             "repo": "playdate",
@@ -1111,6 +1111,27 @@
         },
         {
           "node_type": "item",
+          "title": "Factory Farming",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 492929421,
+            "language": "C",
+            "license": "MIT",
+            "last_commit": "2026-04-27T17:01:20Z",
+            "open_issues": 0,
+            "owner": "timboe",
+            "repo": "FactoryFarming",
+            "stars": 103,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:31:39.967Z"
+        },
+        {
+          "node_type": "item",
           "title": "Playnote Studio",
           "description": "An unofficial Flipnote Studio animation player for the Playdate.",
           "children": [],
@@ -1133,27 +1154,6 @@
               "nintendo-ds",
               "playdate"
             ]
-          },
-          "first_seen": "2026-08-28T23:31:39.967Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Factory Farming",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 492929421,
-            "language": "C",
-            "license": "MIT",
-            "last_commit": "2026-04-27T17:01:20Z",
-            "open_issues": 0,
-            "owner": "timboe",
-            "repo": "FactoryFarming",
-            "stars": 102,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
         },
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:09:59.851Z",
+    "last_updated": "2026-09-17T18:09:47.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
