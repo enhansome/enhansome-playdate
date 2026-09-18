@@ -101,7 +101,7 @@ The following libraries are expected to work well-enough on the Playdate:
 
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,496 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 for additional resources.
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,498 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 for additional resources.
 
 * [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) ⚠️ Archived - A basic template for previewing games built with LÖVE in a Playdate-like environment.
 * [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
@@ -116,7 +116,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 
 This information was gleaned from a developer preview unit and screenshots.
 
-* [Playdate Reverse Engineering](https://github.com/jaames/playdate-reverse-engineering) ⭐ 310 | 🐛 1 | 🌐 Python | 📅 2026-08-07 - Unofficial documentation covering the Playdate's file formats, USB serial commands, and server API.
+* [Playdate Reverse Engineering](https://github.com/jaames/playdate-reverse-engineering) ⭐ 311 | 🐛 1 | 🌐 Python | 📅 2026-08-07 - Unofficial documentation covering the Playdate's file formats, USB serial commands, and server API.
 * [CPU: ST STM32F746](https://www.st.com/resource/en/datasheet/stm32f745ie.pdf)
   * [MCU Reference Manual](https://www.st.com/resource/en/reference_manual/dm00124865-stm32f75xxx-and-stm32f74xxx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
   * [CPU Programming Manual](https://www.st.com/resource/en/programming_manual/dm00237416-stm32f7-series-and-stm32h7-series-cortexm7-processor-programming-manual-stmicroelectronics.pdf)
@@ -189,7 +189,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 * [Panels](https://github.com/cadin/panels) ⭐ 197 | 🐛 2 | 🌐 Lua | 📅 2026-07-15 – Build interactive comics for the Playdate console.
 * [Panels](https://github.com/cadin/panels) ⭐ 197 | 🐛 2 | 🌐 Lua | 📅 2026-07-15 – Build interactive comics for the Playdate console.
-* [Factory Farming](https://github.com/timboe/FactoryFarming) ⭐ 103 | 🐛 0 | 🌐 C | 📅 2026-04-27
+* [Factory Farming](https://github.com/timboe/FactoryFarming) ⭐ 104 | 🐛 0 | 🌐 C | 📅 2026-04-27
 * [Playnote Studio](https://github.com/jaames/playnote-studio) ⭐ 103 | 🐛 5 | 🌐 Lua | 📅 2026-02-12 - An unofficial Flipnote Studio animation player for the Playdate.
 * [Mini3D+](https://github.com/nstbayless/mini3d-plus) ⭐ 86 | 🐛 2 | 🌐 C | 📅 2023-02-08 – Enhanced 3D engine for the Panic Playdate.
 * [Mini3D+](https://github.com/nstbayless/mini3d-plus) ⭐ 86 | 🐛 2 | 🌐 C | 📅 2023-02-08 – Enhanced 3D engine for the Panic Playdate.
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
