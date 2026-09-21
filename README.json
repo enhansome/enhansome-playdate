@@ -173,7 +173,7 @@
                         "open_issues": 19,
                         "owner": "rxi",
                         "repo": "classic",
-                        "stars": 1075,
+                        "stars": 1076,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -340,7 +340,7 @@
                         "open_issues": 1,
                         "owner": "Whitebrim",
                         "repo": "AnimatedSprite",
-                        "stars": 168,
+                        "stars": 169,
                         "topics": [
                           "animation",
                           "library",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T17:26:21.359Z",
+    "last_updated": "2026-09-21T19:21:35.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
