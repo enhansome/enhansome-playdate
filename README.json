@@ -268,7 +268,7 @@
                         "open_issues": 21,
                         "owner": "NobleRobot",
                         "repo": "NobleEngine",
-                        "stars": 506,
+                        "stars": 507,
                         "topics": [
                           "2d-game-engine",
                           "game-development",
@@ -388,7 +388,7 @@
                         "open_issues": 0,
                         "owner": "2dengine",
                         "repo": "profile.lua",
-                        "stars": 101,
+                        "stars": 102,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:03:15.801Z",
+    "last_updated": "2026-09-23T18:22:29.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
