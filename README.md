@@ -77,7 +77,7 @@ The following libraries are expected to work well-enough on the Playdate:
 
 * [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,193 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
 * [middleclass](https://github.com/kikito/middleclass) ⭐ 1,927 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - A simple OOP library for Lua that introduces inheritance, operator overloads, static variables, and mixin support.
-* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,244 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
+* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,245 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
 * [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,100 | 🐛 14 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
 * [rxi/classic](https://github.com/rxi/classic) ⭐ 1,076 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 789 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
@@ -101,7 +101,7 @@ The following libraries are expected to work well-enough on the Playdate:
 
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,507 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 for additional resources.
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,508 | 🐛 1 | 🌐 PowerShell | 📅 2026-08-23 for additional resources.
 
 * [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) ⚠️ Archived - A basic template for previewing games built with LÖVE in a Playdate-like environment.
 * [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
