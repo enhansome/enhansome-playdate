@@ -77,16 +77,16 @@ The following libraries are expected to work well-enough on the Playdate:
 
 * [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,194 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
 * [middleclass](https://github.com/kikito/middleclass) ⭐ 1,927 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - A simple OOP library for Lua that introduces inheritance, operator overloads, static variables, and mixin support.
-* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,245 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
-* [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,099 | 🐛 14 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
-* [rxi/classic](https://github.com/rxi/classic) ⭐ 1,076 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
+* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,246 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
+* [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,100 | 🐛 14 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
+* [rxi/classic](https://github.com/rxi/classic) ⭐ 1,077 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 789 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
 * [Jumper](https://github.com/Yonaba/Jumper) ⭐ 651 | 🐛 39 | 🌐 Lua | 📅 2022-10-21 - A pure Lua pathfinding library for grid-based games.
 * [Knife](https://github.com/airstruck/knife) ⭐ 522 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - A collection of useful micro-modules for Lua.
 * [Noble Engine](https://github.com/NobleRobot/NobleEngine) ⭐ 507 | 🐛 21 | 🌐 Lua | 📅 2024-07-07 - Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features.
   * [Documentation](https://noblerobot.github.io/NobleEngine/)
   * [Presentation from the creator](https://www.youtube.com/watch?v=fL46v-QmnNk)
-* [rxi/tick](https://github.com/rxi/tick) ⭐ 208 | 🐛 0 | 🌐 Lua | 📅 2015-03-11 - A small Lua module that simplifies the calling of functions at a set interval or after a delay.
+* [rxi/tick](https://github.com/rxi/tick) ⭐ 209 | 🐛 0 | 🌐 Lua | 📅 2015-03-11 - A small Lua module that simplifies the calling of functions at a set interval or after a delay.
 * [philanc/plc](https://github.com/philanc/plc) ⭐ 196 | 🐛 0 | 🌐 Lua | 📅 2025-07-20 - Pure Lua Crypto. Crpytographic functions and utilities implemented in pure Lua.
 * [AnimatedSprite](https://github.com/Whitebrim/AnimatedSprite) ⭐ 169 | 🐛 1 | 🌐 Lua | 📅 2026-02-05 - A lua-based library for animating sprites. Containing finite state machine, json configuration and plugNplay behaviour.
 * [deep](https://github.com/Nikaoto/deep) ⭐ 109 | 🐛 1 | 🌐 Lua | 📅 2026-02-17 - An "action-queue" library; helpful for things like z-indexing (although the Playdate already has z-index support in its draw ordering).
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
