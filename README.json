@@ -14,7 +14,7 @@
                         {
                           "node_type": "item",
                           "title": "Playdate API and build tools in Rust",
-                          "description": null,
+                          "description": "boozook/playdate",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -23,7 +23,7 @@
                             "id": 688447185,
                             "language": "Rust",
                             "license": "MIT",
-                            "last_commit": "2026-09-30T19:55:47Z",
+                            "last_commit": "2026-10-02T19:51:48Z",
                             "open_issues": 115,
                             "owner": "boozook",
                             "repo": "playdate",
@@ -43,7 +43,7 @@
                         {
                           "node_type": "item",
                           "title": "Playdate SDK Docker Image",
-                          "description": null,
+                          "description": "hjhart/playdate-docker",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -340,7 +340,7 @@
                         "open_issues": 1,
                         "owner": "Whitebrim",
                         "repo": "AnimatedSprite",
-                        "stars": 169,
+                        "stars": 168,
                         "topics": [
                           "animation",
                           "library",
@@ -1112,7 +1112,7 @@
         {
           "node_type": "item",
           "title": "Factory Farming",
-          "description": null,
+          "description": "timboe/FactoryFarming",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1227,7 +1227,7 @@
         {
           "node_type": "item",
           "title": "Klondike Solitaire for Playdate (GitHub Repo)",
-          "description": null,
+          "description": "pd-rs/crankstart-klondike",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1253,7 +1253,7 @@
         {
           "node_type": "item",
           "title": "PickPackPup",
-          "description": null,
+          "description": "NicMagnier/PickPackPup",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1320,7 +1320,7 @@
         {
           "node_type": "item",
           "title": "Artsy Gallery",
-          "description": null,
+          "description": "artsy/hack-playdate-gallery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1396,7 +1396,7 @@
             {
               "node_type": "item",
               "title": "GitHub Repo",
-              "description": null,
+              "description": "neil-morrison44/playdate_jam_etiquette",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:13:47.424Z",
+    "last_updated": "2026-10-03T05:00:39.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
