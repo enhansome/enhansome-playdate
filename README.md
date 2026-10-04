@@ -81,7 +81,7 @@ The following libraries are expected to work well-enough on the Playdate:
 * [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,101 | 🐛 14 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
 * [rxi/classic](https://github.com/rxi/classic) ⭐ 1,077 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 789 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
-* [Jumper](https://github.com/Yonaba/Jumper) ⭐ 651 | 🐛 39 | 🌐 Lua | 📅 2022-10-21 - A pure Lua pathfinding library for grid-based games.
+* [Jumper](https://github.com/Yonaba/Jumper) ⭐ 652 | 🐛 39 | 🌐 Lua | 📅 2022-10-21 - A pure Lua pathfinding library for grid-based games.
 * [Knife](https://github.com/airstruck/knife) ⭐ 522 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - A collection of useful micro-modules for Lua.
 * [Noble Engine](https://github.com/NobleRobot/NobleEngine) ⭐ 507 | 🐛 21 | 🌐 Lua | 📅 2024-07-07 - Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features.
   * [Documentation](https://noblerobot.github.io/NobleEngine/)
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

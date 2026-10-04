@@ -220,7 +220,7 @@
                         "open_issues": 39,
                         "owner": "Yonaba",
                         "repo": "Jumper",
-                        "stars": 651,
+                        "stars": 652,
                         "topics": [
                           "gamedev",
                           "lua",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:54:24.629Z",
+    "last_updated": "2026-10-04T18:07:15.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
