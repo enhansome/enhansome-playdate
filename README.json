@@ -89,7 +89,7 @@
                         "open_issues": 28,
                         "owner": "rxi",
                         "repo": "json.lua",
-                        "stars": 2194,
+                        "stars": 2196,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -714,8 +714,8 @@
                     "id": 411501275,
                     "language": "Lua",
                     "license": "MIT",
-                    "last_commit": "2026-07-29T15:34:19Z",
-                    "open_issues": 60,
+                    "last_commit": "2026-10-05T15:35:30Z",
+                    "open_issues": 58,
                     "owner": "GamesRightMeow",
                     "repo": "playbit",
                     "stars": 115,
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:07:15.507Z",
+    "last_updated": "2026-10-05T21:28:45.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",

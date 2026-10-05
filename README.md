@@ -75,7 +75,7 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 The following libraries are expected to work well-enough on the Playdate:
 
-* [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,194 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
+* [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,196 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
 * [middleclass](https://github.com/kikito/middleclass) ⭐ 1,927 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - A simple OOP library for Lua that introduces inheritance, operator overloads, static variables, and mixin support.
 * [rxi/lume](https://github.com/rxi/lume) ⭐ 1,246 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
 * [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,101 | 🐛 14 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
@@ -101,7 +101,7 @@ The following libraries are expected to work well-enough on the Playdate:
 
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,512 | 🐛 0 | 🌐 PowerShell | 📅 2026-09-26 for additional resources.
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,513 | 🐛 0 | 🌐 PowerShell | 📅 2026-09-26 for additional resources.
 
 * [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) ⚠️ Archived - A basic template for previewing games built with LÖVE in a Playdate-like environment.
 * [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
@@ -135,7 +135,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 * [Crankstart](https://github.com/rtsuk/crankstart) ⭐ 261 | 🐛 17 | 🌐 Rust | 📅 2025-04-05 - An experimental Rust crate to write games for the Playdate in Rust.
 * [VSCode-PlaydateTemplate](https://github.com/Whitebrim/VSCode-PlaydateTemplate) ⭐ 219 | 🐛 2 | 🌐 Shell | 📅 2024-11-27 - VSCode autocompletion with the Playdate simulator. For Windows & Linux.
-* [playbit](https://github.com/GamesRightMeow/playbit) ⭐ 115 | 🐛 60 | 🌐 Lua | 📅 2026-07-29: Build cross-platform Playdate games, create build scripts, and utilize preprocessor macros!
+* [playbit](https://github.com/GamesRightMeow/playbit) ⭐ 115 | 🐛 58 | 🌐 Lua | 📅 2026-10-05: Build cross-platform Playdate games, create build scripts, and utilize preprocessor macros!
 * [mini3d-plus](https://github.com/nstbayless/mini3d-plus) ⭐ 86 | 🐛 2 | 🌐 C | 📅 2023-02-08 - 3D engine based on the mini3d library provided in the SDK examples.
 * [playdate-nim](https://github.com/samdze/playdate-nim) ⭐ 81 | 🐛 5 | 🌐 Nim | 📅 2026-07-31 - Nim bindings with extra features for the Playdate SDK.
 * [pd-usb](https://github.com/jaames/pd-usb) ⭐ 61 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-08 - JavaScript librarty for interacting with a Playdate connected over USB.
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
