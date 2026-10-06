@@ -60,7 +60,7 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 ###### Unofficial
 
-* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 194 | 🐛 115 | 🌐 Rust | 📅 2026-10-02
+* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 194 | 🐛 115 | 🌐 Rust | 📅 2026-10-05
 * [Playdate SDK Docker Image](https://github.com/hjhart/playdate-docker) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2022-09-08
 * [Install Playdate SDK with Package Managers](https://gist.github.com/idleberg/e246f7a582ac173d156c60ec23ce2af0)
 
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
