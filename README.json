@@ -23,11 +23,11 @@
                             "id": 688447185,
                             "language": "Rust",
                             "license": "MIT",
-                            "last_commit": "2026-10-05T21:56:58Z",
+                            "last_commit": "2026-10-07T20:32:23Z",
                             "open_issues": 115,
                             "owner": "boozook",
                             "repo": "playdate",
-                            "stars": 194,
+                            "stars": 193,
                             "topics": [
                               "build-system",
                               "build-tool",
@@ -89,7 +89,7 @@
                         "open_issues": 28,
                         "owner": "rxi",
                         "repo": "json.lua",
-                        "stars": 2196,
+                        "stars": 2198,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -664,7 +664,7 @@
                     "open_issues": 17,
                     "owner": "pd-rs",
                     "repo": "crankstart",
-                    "stars": 261,
+                    "stars": 260,
                     "topics": [
                       "game",
                       "panic",
@@ -883,7 +883,7 @@
                     "open_issues": 0,
                     "owner": "dknight",
                     "repo": "pd.sh",
-                    "stars": 8,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:39.967Z"
@@ -986,7 +986,7 @@
                 "open_issues": 13,
                 "owner": "Pictogrammers",
                 "repo": "Memory",
-                "stars": 202,
+                "stars": 201,
                 "topics": [
                   "icons",
                   "pixel-art",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:56:40.622Z",
+    "last_updated": "2026-10-08T19:53:19.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
