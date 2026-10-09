@@ -116,7 +116,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 
 This information was gleaned from a developer preview unit and screenshots.
 
-* [Playdate Reverse Engineering](https://github.com/jaames/playdate-reverse-engineering) ⭐ 309 | 🐛 1 | 🌐 Python | 📅 2026-08-07 - Unofficial documentation covering the Playdate's file formats, USB serial commands, and server API.
+* [Playdate Reverse Engineering](https://github.com/jaames/playdate-reverse-engineering) ⭐ 310 | 🐛 1 | 🌐 Python | 📅 2026-08-07 - Unofficial documentation covering the Playdate's file formats, USB serial commands, and server API.
 * [CPU: ST STM32F746](https://www.st.com/resource/en/datasheet/stm32f745ie.pdf)
   * [MCU Reference Manual](https://www.st.com/resource/en/reference_manual/dm00124865-stm32f75xxx-and-stm32f74xxx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
   * [CPU Programming Manual](https://www.st.com/resource/en/programming_manual/dm00237416-stm32f7-series-and-stm32h7-series-cortexm7-processor-programming-manual-stmicroelectronics.pdf)
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

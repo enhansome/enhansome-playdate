@@ -625,7 +625,7 @@
                         "open_issues": 1,
                         "owner": "cranksters",
                         "repo": "playdate-reverse-engineering",
-                        "stars": 309,
+                        "stars": 310,
                         "topics": [
                           "file-formats",
                           "playdate",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:53:19.357Z",
+    "last_updated": "2026-10-09T19:30:35.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
