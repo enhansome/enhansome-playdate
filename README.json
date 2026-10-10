@@ -23,7 +23,7 @@
                             "id": 688447185,
                             "language": "Rust",
                             "license": "MIT",
-                            "last_commit": "2026-10-07T20:32:23Z",
+                            "last_commit": "2026-10-09T20:03:56Z",
                             "open_issues": 115,
                             "owner": "boozook",
                             "repo": "playdate",
@@ -89,7 +89,7 @@
                         "open_issues": 28,
                         "owner": "rxi",
                         "repo": "json.lua",
-                        "stars": 2198,
+                        "stars": 2199,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -110,7 +110,7 @@
                         "open_issues": 1,
                         "owner": "kikito",
                         "repo": "middleclass",
-                        "stars": 1927,
+                        "stars": 1929,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -268,7 +268,7 @@
                         "open_issues": 21,
                         "owner": "NobleRobot",
                         "repo": "NobleEngine",
-                        "stars": 507,
+                        "stars": 508,
                         "topics": [
                           "2d-game-engine",
                           "game-development",
@@ -660,8 +660,8 @@
                     "id": 273092647,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2025-04-05T15:41:45Z",
-                    "open_issues": 17,
+                    "last_commit": "2026-10-10T12:02:03Z",
+                    "open_issues": 15,
                     "owner": "pd-rs",
                     "repo": "crankstart",
                     "stars": 260,
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:30:35.927Z",
+    "last_updated": "2026-10-10T18:31:13.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
