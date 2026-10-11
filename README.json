@@ -110,7 +110,7 @@
                         "open_issues": 1,
                         "owner": "kikito",
                         "repo": "middleclass",
-                        "stars": 1929,
+                        "stars": 1928,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -131,7 +131,7 @@
                         "open_issues": 22,
                         "owner": "rxi",
                         "repo": "lume",
-                        "stars": 1246,
+                        "stars": 1247,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -247,7 +247,7 @@
                         "open_issues": 2,
                         "owner": "airstruck",
                         "repo": "knife",
-                        "stars": 523,
+                        "stars": 524,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -265,7 +265,7 @@
                         "language": "Lua",
                         "license": "NOASSERTION",
                         "last_commit": "2024-07-07T04:19:10Z",
-                        "open_issues": 21,
+                        "open_issues": 22,
                         "owner": "NobleRobot",
                         "repo": "NobleEngine",
                         "stars": 508,
@@ -986,7 +986,7 @@
                 "open_issues": 13,
                 "owner": "Pictogrammers",
                 "repo": "Memory",
-                "stars": 201,
+                "stars": 202,
                 "topics": [
                   "icons",
                   "pixel-art",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:31:13.903Z",
+    "last_updated": "2026-10-11T18:49:18.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
