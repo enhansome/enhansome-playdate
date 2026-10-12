@@ -75,13 +75,13 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 The following libraries are expected to work well-enough on the Playdate:
 
-* [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,199 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
+* [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,198 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
 * [middleclass](https://github.com/kikito/middleclass) ⭐ 1,928 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - A simple OOP library for Lua that introduces inheritance, operator overloads, static variables, and mixin support.
-* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,247 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
+* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,245 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
 * [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,102 | 🐛 14 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
 * [rxi/classic](https://github.com/rxi/classic) ⭐ 1,077 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
-* [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 788 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
-* [Jumper](https://github.com/Yonaba/Jumper) ⭐ 652 | 🐛 39 | 🌐 Lua | 📅 2022-10-21 - A pure Lua pathfinding library for grid-based games.
+* [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 789 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
+* [Jumper](https://github.com/Yonaba/Jumper) ⭐ 651 | 🐛 39 | 🌐 Lua | 📅 2022-10-21 - A pure Lua pathfinding library for grid-based games.
 * [Knife](https://github.com/airstruck/knife) ⭐ 524 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - A collection of useful micro-modules for Lua.
 * [Noble Engine](https://github.com/NobleRobot/NobleEngine) ⭐ 508 | 🐛 22 | 🌐 Lua | 📅 2024-07-07 - Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features.
   * [Documentation](https://noblerobot.github.io/NobleEngine/)
@@ -196,7 +196,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 * [Playlate](https://github.com/downie/playlate) ⭐ 69 | 🐛 2 | 🌐 Lua | 📅 2022-03-22 – A template for Playdate to explore Playdate SDK and build your games faster.
 * [Klondike Solitaire for Playdate (GitHub Repo)](https://github.com/rtsuk/crankstart-klondike) ⭐ 67 | 🐛 0 | 🌐 Rust | 📅 2022-11-05
 * [PickPackPup](https://github.com/NicMagnier/PickPackPup/) ⭐ 62 | 🐛 0 | 🌐 Lua | 📅 2023-05-16
-* [BrickCrusher 2000](https://github.com/aliasaria/BrickCrusher2020) ⭐ 27 | 🐛 0 | 🌐 Lua | 📅 2023-09-18 - Brickbreaker Clone for Playdate
+* [BrickCrusher 2000](https://github.com/aliasaria/BrickCrusher2020) ⭐ 28 | 🐛 0 | 🌐 Lua | 📅 2023-09-18 - Brickbreaker Clone for Playdate
 * [Gimme Friction Baby](https://github.com/notpeter/playdate-friction) ⭐ 23 | 🐛 1 | 🌐 Lua | 📅 2026-02-13 - Lua/Playdate port of a classic casual Flash game.
 * [Artsy Gallery](https://github.com/artsy/hack-playdate-gallery) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2022-04-01
 * [Game of Life](https://github.com/Whitebrim/Game-of-life-love2d-playdate) ⚠️ Archived - An implementation of Conway's Game of Life meant to provide a template for games to be built in Love2d and ported to Playdate.
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
