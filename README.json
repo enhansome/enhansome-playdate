@@ -173,7 +173,7 @@
                         "open_issues": 19,
                         "owner": "rxi",
                         "repo": "classic",
-                        "stars": 1077,
+                        "stars": 1078,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -247,7 +247,7 @@
                         "open_issues": 2,
                         "owner": "airstruck",
                         "repo": "knife",
-                        "stars": 524,
+                        "stars": 525,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -268,7 +268,7 @@
                         "open_issues": 22,
                         "owner": "NobleRobot",
                         "repo": "NobleEngine",
-                        "stars": 508,
+                        "stars": 509,
                         "topics": [
                           "2d-game-engine",
                           "game-development",
@@ -298,7 +298,7 @@
                         "open_issues": 0,
                         "owner": "rxi",
                         "repo": "tick",
-                        "stars": 209,
+                        "stars": 210,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -367,7 +367,7 @@
                         "open_issues": 1,
                         "owner": "Nikaoto",
                         "repo": "deep",
-                        "stars": 111,
+                        "stars": 112,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -715,7 +715,7 @@
                     "language": "Lua",
                     "license": "MIT",
                     "last_commit": "2026-10-05T15:35:30Z",
-                    "open_issues": 59,
+                    "open_issues": 66,
                     "owner": "GamesRightMeow",
                     "repo": "playbit",
                     "stars": 115,
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:18:26.457Z",
+    "last_updated": "2026-10-19T19:50:52.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
@@ -1433,7 +1433,7 @@
       "open_issues": 8,
       "owner": "sayhiben",
       "repo": "awesome-playdate",
-      "stars": 696,
+      "stars": 697,
       "topics": [
         "awesome",
         "awesome-list",
