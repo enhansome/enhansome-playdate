@@ -89,7 +89,7 @@
                         "open_issues": 28,
                         "owner": "rxi",
                         "repo": "json.lua",
-                        "stars": 2199,
+                        "stars": 2200,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -625,7 +625,7 @@
                         "open_issues": 1,
                         "owner": "cranksters",
                         "repo": "playdate-reverse-engineering",
-                        "stars": 311,
+                        "stars": 312,
                         "topics": [
                           "file-formats",
                           "playdate",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:26:24.519Z",
+    "last_updated": "2026-10-21T18:34:05.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
