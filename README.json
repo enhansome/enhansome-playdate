@@ -89,7 +89,7 @@
                         "open_issues": 28,
                         "owner": "rxi",
                         "repo": "json.lua",
-                        "stars": 2200,
+                        "stars": 2201,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -152,7 +152,7 @@
                         "open_issues": 15,
                         "owner": "kikito",
                         "repo": "bump.lua",
-                        "stars": 1103,
+                        "stars": 1104,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -718,7 +718,7 @@
                     "open_issues": 66,
                     "owner": "GamesRightMeow",
                     "repo": "playbit",
-                    "stars": 115,
+                    "stars": 116,
                     "topics": [
                       "game-development",
                       "game-engine",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:29:27.172Z",
+    "last_updated": "2026-10-23T18:15:57.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
