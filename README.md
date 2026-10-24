@@ -60,7 +60,7 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 ###### Unofficial
 
-* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 193 | 🐛 115 | 🌐 Rust | 📅 2026-10-21
+* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 193 | 🐛 115 | 🌐 Rust | 📅 2026-10-23
 * [Playdate SDK Docker Image](https://github.com/hjhart/playdate-docker) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2022-09-08
 * [Install Playdate SDK with Package Managers](https://gist.github.com/idleberg/e246f7a582ac173d156c60ec23ce2af0)
 
@@ -79,7 +79,7 @@ The following libraries are expected to work well-enough on the Playdate:
 * [middleclass](https://github.com/kikito/middleclass) ⭐ 1,928 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - A simple OOP library for Lua that introduces inheritance, operator overloads, static variables, and mixin support.
 * [rxi/lume](https://github.com/rxi/lume) ⭐ 1,246 | 🐛 23 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
 * [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,104 | 🐛 15 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
-* [rxi/classic](https://github.com/rxi/classic) ⭐ 1,078 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
+* [rxi/classic](https://github.com/rxi/classic) ⭐ 1,080 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 790 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
 * [Jumper](https://github.com/Yonaba/Jumper) ⭐ 651 | 🐛 39 | 🌐 Lua | 📅 2022-10-21 - A pure Lua pathfinding library for grid-based games.
 * [Knife](https://github.com/airstruck/knife) ⭐ 525 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - A collection of useful micro-modules for Lua.
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
