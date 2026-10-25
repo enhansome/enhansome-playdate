@@ -89,7 +89,7 @@
                         "open_issues": 28,
                         "owner": "rxi",
                         "repo": "json.lua",
-                        "stars": 2201,
+                        "stars": 2202,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -152,7 +152,7 @@
                         "open_issues": 15,
                         "owner": "kikito",
                         "repo": "bump.lua",
-                        "stars": 1104,
+                        "stars": 1105,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -763,7 +763,7 @@
                     "id": 585570077,
                     "language": "Nim",
                     "license": null,
-                    "last_commit": "2026-07-31T02:01:29Z",
+                    "last_commit": "2026-10-24T21:50:23Z",
                     "open_issues": 5,
                     "owner": "samdze",
                     "repo": "playdate-nim",
@@ -986,7 +986,7 @@
                 "open_issues": 13,
                 "owner": "Pictogrammers",
                 "repo": "Memory",
-                "stars": 202,
+                "stars": 203,
                 "topics": [
                   "icons",
                   "pixel-art",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:23:43.319Z",
+    "last_updated": "2026-10-25T17:37:12.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
