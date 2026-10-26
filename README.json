@@ -89,7 +89,7 @@
                         "open_issues": 28,
                         "owner": "rxi",
                         "repo": "json.lua",
-                        "stars": 2202,
+                        "stars": 2200,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -268,7 +268,7 @@
                         "open_issues": 22,
                         "owner": "NobleRobot",
                         "repo": "NobleEngine",
-                        "stars": 510,
+                        "stars": 511,
                         "topics": [
                           "2d-game-engine",
                           "game-development",
@@ -763,7 +763,7 @@
                     "id": 585570077,
                     "language": "Nim",
                     "license": null,
-                    "last_commit": "2026-10-24T21:50:23Z",
+                    "last_commit": "2026-10-25T18:18:40Z",
                     "open_issues": 5,
                     "owner": "samdze",
                     "repo": "playdate-nim",
@@ -986,7 +986,7 @@
                 "open_issues": 13,
                 "owner": "Pictogrammers",
                 "repo": "Memory",
-                "stars": 203,
+                "stars": 204,
                 "topics": [
                   "icons",
                   "pixel-art",
@@ -1266,7 +1266,7 @@
             "open_issues": 0,
             "owner": "NicMagnier",
             "repo": "PickPackPup",
-            "stars": 62,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
@@ -1312,7 +1312,7 @@
             "open_issues": 1,
             "owner": "notpeter",
             "repo": "playdate-friction",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:39.967Z"
@@ -1409,7 +1409,7 @@
                 "open_issues": 0,
                 "owner": "neil-morrison44",
                 "repo": "playdate_jam_etiquette",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:39.967Z"
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:37:12.379Z",
+    "last_updated": "2026-10-26T19:53:00.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
@@ -1433,7 +1433,7 @@
       "open_issues": 8,
       "owner": "sayhiben",
       "repo": "awesome-playdate",
-      "stars": 697,
+      "stars": 698,
       "topics": [
         "awesome",
         "awesome-list",
