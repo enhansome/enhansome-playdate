@@ -152,7 +152,7 @@
                         "open_issues": 15,
                         "owner": "kikito",
                         "repo": "bump.lua",
-                        "stars": 1105,
+                        "stars": 1104,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -268,7 +268,7 @@
                         "open_issues": 22,
                         "owner": "NobleRobot",
                         "repo": "NobleEngine",
-                        "stars": 511,
+                        "stars": 512,
                         "topics": [
                           "2d-game-engine",
                           "game-development",
@@ -763,7 +763,7 @@
                     "id": 585570077,
                     "language": "Nim",
                     "license": null,
-                    "last_commit": "2026-10-25T18:18:40Z",
+                    "last_commit": "2026-10-28T15:38:59Z",
                     "open_issues": 5,
                     "owner": "samdze",
                     "repo": "playdate-nim",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:24:40.422Z",
+    "last_updated": "2026-10-28T19:29:45.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
