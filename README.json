@@ -794,7 +794,7 @@
                     "open_issues": 0,
                     "owner": "cranksters",
                     "repo": "pd-usb",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": [
                       "handheld",
                       "playdate",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:29:11.836Z",
+    "last_updated": "2026-11-01T18:52:35.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",

@@ -101,7 +101,7 @@ The following libraries are expected to work well-enough on the Playdate:
 
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,542 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-26 for additional resources.
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,545 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-26 for additional resources.
 
 * [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) ⚠️ Archived - A basic template for previewing games built with LÖVE in a Playdate-like environment.
 * [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
@@ -138,7 +138,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 * [playbit](https://github.com/GamesRightMeow/playbit) ⭐ 116 | 🐛 66 | 🌐 Lua | 📅 2026-10-05: Build cross-platform Playdate games, create build scripts, and utilize preprocessor macros!
 * [mini3d-plus](https://github.com/nstbayless/mini3d-plus) ⭐ 86 | 🐛 2 | 🌐 C | 📅 2023-02-08 - 3D engine based on the mini3d library provided in the SDK examples.
 * [playdate-nim](https://github.com/samdze/playdate-nim) ⭐ 81 | 🐛 5 | 🌐 Nim | 📅 2026-10-28 - Nim bindings with extra features for the Playdate SDK.
-* [pd-usb](https://github.com/jaames/pd-usb) ⭐ 61 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-08 - JavaScript librarty for interacting with a Playdate connected over USB.
+* [pd-usb](https://github.com/jaames/pd-usb) ⭐ 62 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-08 - JavaScript librarty for interacting with a Playdate connected over USB.
 * [playdate-rs](https://github.com/igaryhe/playdate-rs) ⭐ 22 | 🐛 0 | 🌐 Rust | 📅 2021-06-19 - Unofficial Rust binding for Playdate C API.
 * [playdate4j](https://github.com/am1goo/playdate4j) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2024-09-07 - Unofficial Java binding for Playdate C API.
 * [pd.sh](https://github.com/dknight/pd.sh/) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2025-11-02: A shell script to create a new project from a template, run/stop simulator directly from the terminal.
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
