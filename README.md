@@ -60,7 +60,7 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 ###### Unofficial
 
-* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 193 | 🐛 115 | 🌐 Rust | 📅 2026-10-30
+* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 194 | 🐛 115 | 🌐 Rust | 📅 2026-10-30
 * [Playdate SDK Docker Image](https://github.com/hjhart/playdate-docker) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2022-09-08
 * [Install Playdate SDK with Package Managers](https://gist.github.com/idleberg/e246f7a582ac173d156c60ec23ce2af0)
 
@@ -75,18 +75,18 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 The following libraries are expected to work well-enough on the Playdate:
 
-* [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,200 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
+* [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,199 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
 * [middleclass](https://github.com/kikito/middleclass) ⭐ 1,928 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - A simple OOP library for Lua that introduces inheritance, operator overloads, static variables, and mixin support.
-* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,247 | 🐛 23 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
-* [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,104 | 🐛 15 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
-* [rxi/classic](https://github.com/rxi/classic) ⭐ 1,080 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
+* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,246 | 🐛 23 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
+* [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,103 | 🐛 15 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
+* [rxi/classic](https://github.com/rxi/classic) ⭐ 1,079 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 790 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
 * [Jumper](https://github.com/Yonaba/Jumper) ⭐ 651 | 🐛 39 | 🌐 Lua | 📅 2022-10-21 - A pure Lua pathfinding library for grid-based games.
 * [Knife](https://github.com/airstruck/knife) ⭐ 525 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - A collection of useful micro-modules for Lua.
 * [Noble Engine](https://github.com/NobleRobot/NobleEngine) ⭐ 512 | 🐛 22 | 🌐 Lua | 📅 2024-07-07 - Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features.
   * [Documentation](https://noblerobot.github.io/NobleEngine/)
   * [Presentation from the creator](https://www.youtube.com/watch?v=fL46v-QmnNk)
-* [rxi/tick](https://github.com/rxi/tick) ⭐ 210 | 🐛 0 | 🌐 Lua | 📅 2015-03-11 - A small Lua module that simplifies the calling of functions at a set interval or after a delay.
+* [rxi/tick](https://github.com/rxi/tick) ⭐ 209 | 🐛 0 | 🌐 Lua | 📅 2015-03-11 - A small Lua module that simplifies the calling of functions at a set interval or after a delay.
 * [philanc/plc](https://github.com/philanc/plc) ⭐ 197 | 🐛 0 | 🌐 Lua | 📅 2025-07-20 - Pure Lua Crypto. Crpytographic functions and utilities implemented in pure Lua.
 * [AnimatedSprite](https://github.com/Whitebrim/AnimatedSprite) ⭐ 169 | 🐛 1 | 🌐 Lua | 📅 2026-02-05 - A lua-based library for animating sprites. Containing finite state machine, json configuration and plugNplay behaviour.
 * [deep](https://github.com/Nikaoto/deep) ⭐ 112 | 🐛 1 | 🌐 Lua | 📅 2026-02-17 - An "action-queue" library; helpful for things like z-indexing (although the Playdate already has z-index support in its draw ordering).
@@ -101,7 +101,7 @@ The following libraries are expected to work well-enough on the Playdate:
 
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,545 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-26 for additional resources.
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,548 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-26 for additional resources.
 
 * [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) ⚠️ Archived - A basic template for previewing games built with LÖVE in a Playdate-like environment.
 * [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
@@ -133,7 +133,7 @@ This information was gleaned from a developer preview unit and screenshots.
 
 These projects represent experiments with the Playdate. Use at your own risk.
 
-* [Crankstart](https://github.com/rtsuk/crankstart) ⭐ 260 | 🐛 15 | 🌐 Rust | 📅 2026-10-10 - An experimental Rust crate to write games for the Playdate in Rust.
+* [Crankstart](https://github.com/rtsuk/crankstart) ⭐ 261 | 🐛 15 | 🌐 Rust | 📅 2026-10-10 - An experimental Rust crate to write games for the Playdate in Rust.
 * [VSCode-PlaydateTemplate](https://github.com/Whitebrim/VSCode-PlaydateTemplate) ⭐ 219 | 🐛 2 | 🌐 Shell | 📅 2024-11-27 - VSCode autocompletion with the Playdate simulator. For Windows & Linux.
 * [playbit](https://github.com/GamesRightMeow/playbit) ⭐ 116 | 🐛 66 | 🌐 Lua | 📅 2026-10-05: Build cross-platform Playdate games, create build scripts, and utilize preprocessor macros!
 * [mini3d-plus](https://github.com/nstbayless/mini3d-plus) ⭐ 86 | 🐛 2 | 🌐 C | 📅 2023-02-08 - 3D engine based on the mini3d library provided in the SDK examples.
@@ -176,7 +176,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 ### Graphics
 
-* [Memory Icons](https://github.com/Pictogrammers/Memory) ⭐ 204 | 🐛 13 | 🌐 TypeScript | 📅 2023-12-31 - Open Source 1bit icon set
+* [Memory Icons](https://github.com/Pictogrammers/Memory) ⭐ 205 | 🐛 13 | 🌐 TypeScript | 📅 2023-12-31 - Open Source 1bit icon set
 * [DrawDate](https://neil.today/drawdate/) - 1-bit, browser-based sprite editor. [GitHub Source](https://github.com/neil-morrison44/drawdate) ⭐ 22 | 🐛 22 | 🌐 C | 📅 2023-01-06.
 * [Pixen](https://pixenapp.com) - Pixel art editor for Mac and iPad, with recent optimizations for [Playdate graphics creation](https://furnacecreek.org/blog/2024-01-28-pixen-and-playdate).
 
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
