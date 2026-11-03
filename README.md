@@ -60,7 +60,7 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 ###### Unofficial
 
-* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 194 | 🐛 115 | 🌐 Rust | 📅 2026-10-30
+* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 194 | 🐛 115 | 🌐 Rust | 📅 2026-11-02
 * [Playdate SDK Docker Image](https://github.com/hjhart/playdate-docker) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2022-09-08
 * [Install Playdate SDK with Package Managers](https://gist.github.com/idleberg/e246f7a582ac173d156c60ec23ce2af0)
 
@@ -77,7 +77,7 @@ The following libraries are expected to work well-enough on the Playdate:
 
 * [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,199 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
 * [middleclass](https://github.com/kikito/middleclass) ⭐ 1,928 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - A simple OOP library for Lua that introduces inheritance, operator overloads, static variables, and mixin support.
-* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,246 | 🐛 23 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
+* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,245 | 🐛 23 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
 * [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,103 | 🐛 15 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
 * [rxi/classic](https://github.com/rxi/classic) ⭐ 1,079 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 790 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
@@ -116,7 +116,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 
 This information was gleaned from a developer preview unit and screenshots.
 
-* [Playdate Reverse Engineering](https://github.com/jaames/playdate-reverse-engineering) ⭐ 312 | 🐛 1 | 🌐 Python | 📅 2026-08-07 - Unofficial documentation covering the Playdate's file formats, USB serial commands, and server API.
+* [Playdate Reverse Engineering](https://github.com/jaames/playdate-reverse-engineering) ⭐ 313 | 🐛 1 | 🌐 Python | 📅 2026-08-07 - Unofficial documentation covering the Playdate's file formats, USB serial commands, and server API.
 * [CPU: ST STM32F746](https://www.st.com/resource/en/datasheet/stm32f745ie.pdf)
   * [MCU Reference Manual](https://www.st.com/resource/en/reference_manual/dm00124865-stm32f75xxx-and-stm32f74xxx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
   * [CPU Programming Manual](https://www.st.com/resource/en/programming_manual/dm00237416-stm32f7-series-and-stm32h7-series-cortexm7-processor-programming-manual-stmicroelectronics.pdf)
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
