@@ -23,11 +23,11 @@
                             "id": 688447185,
                             "language": "Rust",
                             "license": "MIT",
-                            "last_commit": "2026-11-04T21:13:03Z",
+                            "last_commit": "2026-11-06T20:48:01Z",
                             "open_issues": 115,
                             "owner": "boozook",
                             "repo": "playdate",
-                            "stars": 194,
+                            "stars": 195,
                             "topics": [
                               "build-system",
                               "build-tool",
@@ -986,7 +986,7 @@
                 "open_issues": 13,
                 "owner": "Pictogrammers",
                 "repo": "Memory",
-                "stars": 205,
+                "stars": 206,
                 "topics": [
                   "icons",
                   "pixel-art",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:25:09.290Z",
+    "last_updated": "2026-11-07T18:42:54.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
@@ -1433,7 +1433,7 @@
       "open_issues": 8,
       "owner": "sayhiben",
       "repo": "awesome-playdate",
-      "stars": 699,
+      "stars": 700,
       "topics": [
         "awesome",
         "awesome-list",
