@@ -23,7 +23,7 @@
                             "id": 688447185,
                             "language": "Rust",
                             "license": "MIT",
-                            "last_commit": "2026-11-06T20:48:01Z",
+                            "last_commit": "2026-11-09T23:44:41Z",
                             "open_issues": 115,
                             "owner": "boozook",
                             "repo": "playdate",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:24:53.851Z",
+    "last_updated": "2026-11-10T20:46:38.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
@@ -1433,7 +1433,7 @@
       "open_issues": 8,
       "owner": "sayhiben",
       "repo": "awesome-playdate",
-      "stars": 700,
+      "stars": 701,
       "topics": [
         "awesome",
         "awesome-list",
