@@ -843,7 +843,7 @@
                     "open_issues": 0,
                     "owner": "am1goo",
                     "repo": "playdate4j",
-                    "stars": 9,
+                    "stars": 10,
                     "topics": [
                       "2d",
                       "2dengine",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:15:26.320Z",
+    "last_updated": "2026-11-18T21:52:53.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
