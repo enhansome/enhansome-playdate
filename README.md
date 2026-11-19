@@ -60,7 +60,7 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 ###### Unofficial
 
-* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 195 | 🐛 115 | 🌐 Rust | 📅 2026-11-16
+* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 195 | 🐛 115 | 🌐 Rust | 📅 2026-11-18
 * [Playdate SDK Docker Image](https://github.com/hjhart/playdate-docker) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2022-09-08
 * [Install Playdate SDK with Package Managers](https://gist.github.com/idleberg/e246f7a582ac173d156c60ec23ce2af0)
 
@@ -78,7 +78,7 @@ The following libraries are expected to work well-enough on the Playdate:
 * [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,200 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
 * [middleclass](https://github.com/kikito/middleclass) ⭐ 1,922 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - A simple OOP library for Lua that introduces inheritance, operator overloads, static variables, and mixin support.
 * [rxi/lume](https://github.com/rxi/lume) ⭐ 1,246 | 🐛 23 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
-* [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,104 | 🐛 15 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
+* [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,105 | 🐛 15 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
 * [rxi/classic](https://github.com/rxi/classic) ⭐ 1,081 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 791 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
 * [Jumper](https://github.com/Yonaba/Jumper) ⭐ 652 | 🐛 39 | 🌐 Lua | 📅 2022-10-21 - A pure Lua pathfinding library for grid-based games.
@@ -94,7 +94,7 @@ The following libraries are expected to work well-enough on the Playdate:
 * [lua-star](https://github.com/wesleywerner/lua-star) ⭐ 80 | 🐛 0 | 🌐 Lua | 📅 2021-07-25 - A\* pathfinding in pure Lua.
 * [rxi/shash](https://github.com/rxi/shash) ⭐ 79 | 🐛 0 | 🌐 Lua | 📅 2022-06-22 - A simple, lightweight spatial hash for Lua.
 * [GFXP](https://github.com/ivansergeev/gfxp) ⭐ 72 | 🐛 0 | 🌐 Lua | 📅 2024-07-05 - A library with a collection of dithering patterns for the Playdate. An online version of the editor can be seen [here](https://ivansergeev.com/gfxp/).
-* [vector.lua](https://github.com/themousery/vector.lua) ⭐ 63 | 🐛 3 | 🌐 Lua | 📅 2024-12-03 - An alternative 2D vector library for Lua.
+* [vector.lua](https://github.com/themousery/vector.lua) ⭐ 64 | 🐛 3 | 🌐 Lua | 📅 2024-12-03 - An alternative 2D vector library for Lua.
 * [Keyboard Based Menu](https://github.com/AavaGames/playdate-keyboard-based-menu-ui) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2024-03-26 - A menu that uses the playdate's keyboard to navigate and select.
 
 ##### LOVE
@@ -140,7 +140,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 * [playdate-nim](https://github.com/samdze/playdate-nim) ⭐ 81 | 🐛 5 | 🌐 Nim | 📅 2026-11-09 - Nim bindings with extra features for the Playdate SDK.
 * [pd-usb](https://github.com/jaames/pd-usb) ⭐ 62 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-08 - JavaScript librarty for interacting with a Playdate connected over USB.
 * [playdate-rs](https://github.com/igaryhe/playdate-rs) ⭐ 22 | 🐛 0 | 🌐 Rust | 📅 2021-06-19 - Unofficial Rust binding for Playdate C API.
-* [playdate4j](https://github.com/am1goo/playdate4j) ⭐ 10 | 🐛 0 | 🌐 Java | 📅 2024-09-07 - Unofficial Java binding for Playdate C API.
+* [playdate4j](https://github.com/am1goo/playdate4j) ⭐ 13 | 🐛 0 | 🌐 Java | 📅 2024-09-07 - Unofficial Java binding for Playdate C API.
 * [pd.sh](https://github.com/dknight/pd.sh/) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2025-11-02: A shell script to create a new project from a template, run/stop simulator directly from the terminal.
 * [playdate-vscode-build-macos](https://github.com/milkbottlelough/playdate-vscode-build-macos) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2023-03-14 - VSCode one click build and simple starter template. macOS only.
 * [VSCode-PlaydateTemplateForLinux](https://github.com/imrmnabil/VSCode-PlaydateTemplateForLinux) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2022-10-28 - VSCode autocompletion with the Playdate simulator. Linux based system only.
@@ -336,4 +336,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
