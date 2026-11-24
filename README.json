@@ -152,7 +152,7 @@
                         "open_issues": 15,
                         "owner": "kikito",
                         "repo": "bump.lua",
-                        "stars": 1106,
+                        "stars": 1108,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:31:39.967Z"
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:42:01.138Z",
+    "last_updated": "2026-11-24T01:37:39.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)",
