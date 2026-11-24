@@ -60,7 +60,7 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 ###### Unofficial
 
-* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 195 | 🐛 115 | 🌐 Rust | 📅 2026-11-20
+* [Playdate API and build tools in Rust](https://github.com/boozook/playdate) ⭐ 195 | 🐛 115 | 🌐 Rust | 📅 2026-11-24
 * [Playdate SDK Docker Image](https://github.com/hjhart/playdate-docker) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2022-09-08
 * [Install Playdate SDK with Package Managers](https://gist.github.com/idleberg/e246f7a582ac173d156c60ec23ce2af0)
 
@@ -75,9 +75,9 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 
 The following libraries are expected to work well-enough on the Playdate:
 
-* [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,200 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
+* [rxi/json.lua](https://github.com/rxi/json.lua) ⭐ 2,202 | 🐛 28 | 🌐 Lua | 📅 2023-11-28 - A lightweight JSON library for Lua.
 * [middleclass](https://github.com/kikito/middleclass) ⭐ 1,923 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - A simple OOP library for Lua that introduces inheritance, operator overloads, static variables, and mixin support.
-* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,246 | 🐛 23 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
+* [rxi/lume](https://github.com/rxi/lume) ⭐ 1,247 | 🐛 23 | 🌐 Lua | 📅 2023-11-19 - A collection of functions for Lua, geared towards game development.
 * [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,108 | 🐛 15 | 🌐 Lua | 📅 2023-09-29 - A 2D colission detection library.
 * [rxi/classic](https://github.com/rxi/classic) ⭐ 1,082 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 791 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - An entity component system in pure Lua.
@@ -94,14 +94,14 @@ The following libraries are expected to work well-enough on the Playdate:
 * [lua-star](https://github.com/wesleywerner/lua-star) ⭐ 80 | 🐛 0 | 🌐 Lua | 📅 2021-07-25 - A\* pathfinding in pure Lua.
 * [rxi/shash](https://github.com/rxi/shash) ⭐ 79 | 🐛 0 | 🌐 Lua | 📅 2022-06-22 - A simple, lightweight spatial hash for Lua.
 * [GFXP](https://github.com/ivansergeev/gfxp) ⭐ 72 | 🐛 0 | 🌐 Lua | 📅 2024-07-05 - A library with a collection of dithering patterns for the Playdate. An online version of the editor can be seen [here](https://ivansergeev.com/gfxp/).
-* [vector.lua](https://github.com/themousery/vector.lua) ⭐ 64 | 🐛 3 | 🌐 Lua | 📅 2024-12-03 - An alternative 2D vector library for Lua.
+* [vector.lua](https://github.com/themousery/vector.lua) ⭐ 64 | 🐛 0 | 🌐 Lua | 📅 2026-11-24 - An alternative 2D vector library for Lua.
 * [Keyboard Based Menu](https://github.com/AavaGames/playdate-keyboard-based-menu-ui) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2024-03-26 - A menu that uses the playdate's keyboard to navigate and select.
 
 ##### LOVE
 
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,571 | 🐛 2 | 🌐 PowerShell | 📅 2026-09-26 for additional resources.
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,572 | 🐛 2 | 🌐 PowerShell | 📅 2026-09-26 for additional resources.
 
 * [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) ⚠️ Archived - A basic template for previewing games built with LÖVE in a Playdate-like environment.
 * [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
